@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-01T14:28:06.699885+01:00",
+  "data_ora": "2026-11-01T15:16:02.965889+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 28,
-  "errori_siti": 8,
-  "scuole_cursor": 24,
+  "scuole_lette": 10,
+  "pagine_lette": 36,
+  "errori_siti": 7,
+  "scuole_cursor": 36,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,12 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.https/: ConnectionError: HTTPSConnectionPool(host='www.https', port=443): Max retries exceeded with url: / (Caused by NameRes",
-    "https://www.ddserino.it/: ConnectionError: HTTPSConnectionPool(host='www.ddserino.it', port=443): Max retries exceeded with url: / (Caused by N",
-    "https://www.aielloscuole.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.aielloscuole.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.agrariogeometra.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.agrariogeometra.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.icasdorso.it/: ConnectionError: HTTPSConnectionPool(host='www.icasdorso.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.calitricomprensivo.it/: ConnectionError: HTTPSConnectionPool(host='www.calitricomprensivo.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.icatripalda.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icatripalda.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.convittocolletta.it/: ConnectTimeout: HTTPSConnectionPool(host='www.convittocolletta.it', port=443): Max retries exceeded with url: / (Cau"
+    "https://www.iccamporeale.it/: ConnectionError: HTTPSConnectionPool(host='www.iccamporeale.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.icbenedettocrocelauro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icbenedettocrocelauro.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.iccaposele.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccaposele.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icavella.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icavella.gov.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.iccaposele.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.iccarlodelbalzo.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.icbisaccia.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
