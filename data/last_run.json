@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-01T17:11:18.583142+01:00",
+  "data_ora": "2026-11-01T18:12:06.831455+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 35,
-  "errori_siti": 7,
-  "scuole_cursor": 60,
+  "scuole_lette": 11,
+  "pagine_lette": 37,
+  "errori_siti": 6,
+  "scuole_cursor": 72,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,12 +27,11 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icmontella.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icmontella.edu.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.icmonteforteirpino.av.it/: ConnectionError: HTTPSConnectionPool(host='www.icmonteforteirpino.av.it', port=443): Max retries exceeded with url: /",
-    "https://www.icmontella.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmontella.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.icmonteforteiepino.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icmonteforteiepino.edu.it', port=443): Max retries exceeded with url: ",
-    "https://www.icmontoroinferiore.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmontoroinferiore.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.icmirabellaeclano.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.iclioni.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.icreginamargherita-leonardodavinci.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icreginamargherita-leonardodavinci.edu.it', port=443): Max retries exc",
+    "https://www.icserino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icserino.gov.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.icrotondi.it/: ConnectionError: HTTPSConnectionPool(host='www.icrotondi.it', port=443): Max retries exceeded with url: / (Caused by ",
+    "https://www.icsolofrafrancescoguarini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsolofrafrancescoguarini.gov.it', port=443): Max retries exceeded wit",
+    "https://www.icserino.udu.it/: ConnectionError: HTTPSConnectionPool(host='www.icserino.udu.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.icpascolivallata.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
