@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-01T15:16:02.965889+01:00",
+  "data_ora": "2026-11-01T16:12:25.638419+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,23 +16,25 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 36,
-  "errori_siti": 7,
-  "scuole_cursor": 36,
+  "scuole_lette": 8,
+  "pagine_lette": 32,
+  "errori_siti": 9,
+  "scuole_cursor": 48,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iccamporeale.it/: ConnectionError: HTTPSConnectionPool(host='www.iccamporeale.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.icbenedettocrocelauro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icbenedettocrocelauro.gov.it', port=443): Max retries exceeded with ur",
-    "https://www.iccaposele.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccaposele.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.icavella.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icavella.gov.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.iccaposele.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.iccarlodelbalzo.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.icbisaccia.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.iccaruso.eduit/: ConnectionError: HTTPSConnectionPool(host='www.iccaruso.eduit', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.iccriscuoli.it/: ConnectionError: HTTPSConnectionPool(host='www.iccriscuoli.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.icdonmilaniariano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdonmilaniariano.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.icdonmilaniarianocentro.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icdonmilaniarianocentro.edu.it', port=443): Max retries exceeded with ",
+    "https://www.icfrigento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icfrigento.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icgiovannixxiiibaiano.it/: ConnectionError: HTTPSConnectionPool(host='www.icgiovannixxiiibaiano.it', port=443): Max retries exceeded with url: /",
+    "https://www.icgiuliolusi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icgiuliolusi.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.icgrottaminarda.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.iccaruso.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
