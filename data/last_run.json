@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-01T23:11:51.227778+01:00",
+  "data_ora": "2026-11-02T00:10:46.080125+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,20 +16,23 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 13,
-  "pagine_lette": 41,
-  "errori_siti": 4,
-  "scuole_cursor": 132,
+  "scuole_lette": 10,
+  "pagine_lette": 36,
+  "errori_siti": 7,
+  "scuole_cursor": 144,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.convittogiannone.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.convittogiannone.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://wwww.ddserino.it/: ConnectionError: HTTPSConnectionPool(host='wwww.ddserino.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.cpiabenevento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cpiabenevento.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.galieli.it/: ConnectionError: HTTPSConnectionPool(host='www.galieli.it', port=443): Max retries exceeded with url: / (Caused by Na"
+    "https://www.icalpimontesarchio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icalpimontesarchio.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.galileivetrone.it/: ConnectionError: HTTPSConnectionPool(host='www.galileivetrone.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.ic2montesachio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2montesachio.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.iccollesannita.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccollesannita.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.ic2montesarchio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2montesarchio.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.icdugenta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdugenta.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.galileibn.it/: ConnectionError: HTTPConnectionPool(host='ourgucci.com', port=80): Max retries exceeded with url: / (Caused by NameRe"
   ]
 }
