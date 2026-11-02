@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-02T19:29:07.902394+01:00",
+  "data_ora": "2026-11-02T20:30:41.419093+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 8,
-  "pagine_lette": 29,
-  "errori_siti": 9,
-  "scuole_cursor": 324,
+  "scuole_lette": 9,
+  "pagine_lette": 37,
+  "errori_siti": 8,
+  "scuole_cursor": 336,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,14 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.isismarcianise.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isismarcianise.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.isissamaldinevio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isissamaldinevio.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.isisscontiaversa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisscontiaversa.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.ipsartaversa.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsartaversa.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.isisscastelvolturno.it/: ConnectionError: HTTPSConnectionPool(host='www.isisscastelvolturno.it', port=443): Max retries exceeded with url: / (",
-    "https://www.iisdefranchis.it/: SSLError: HTTPSConnectionPool(host='www.iisdefranchis.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.isisferrariscaserta.it/: ConnectTimeout: HTTPSConnectionPool(host='www.isisferrariscaserta.it', port=443): Max retries exceeded with url: / (",
-    "https://www.isissmajorana.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.isissmarconi.it/: ConnectionError: HTTPSConnectionPool(host='www.isissmarconi.it', port=443): Max retries exceeded with url: / (Caused "
+    "https://www.isisstaddeodasessa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisstaddeodasessa.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.istitutocomprensivocaiazzo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivocaiazzo.gov.it', port=443): Max retries exceeded wi",
+    "https://www.isisstaddeodasessa.it/: ConnectionError: HTTPSConnectionPool(host='www.isisstaddeodasessa.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.isititutocomprensivofrignano.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.isititutocomprensivofrignano.edu.it', port=443): Max retries exceeded ",
+    "https://www.istitutocomprensivocasagiove.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivocasagiove.gov.it', port=443): Max retries exceeded ",
+    "https://www.isissmatese.it/: SSLError: HTTPSConnectionPool(host='www.isissmatese.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.istitutocomprensivocaiazzo.it/: SSLError: HTTPSConnectionPool(host='www.istitutocomprensivocaiazzo.it', port=443): Max retries exceeded with u",
+    "https://www.isisvoltaaversa.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
