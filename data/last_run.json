@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-02T14:46:38.937480+01:00",
+  "data_ora": "2026-11-02T16:29:57.080226+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,21 +17,21 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 11,
-  "pagine_lette": 39,
+  "pagine_lette": 38,
   "errori_siti": 6,
-  "scuole_cursor": 276,
+  "scuole_cursor": 288,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 10,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iccastelvolturno.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccastelvolturno.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.icdd2.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdd2.gov.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.icfrignano.it/: ConnectionError: HTTPSConnectionPool(host='www.icfrignano.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.icdd2.edu.it/: HTTPError: 403 Client Error: Forbidden for url: https://www.icdd2.edu.it/",
-    "https://www.iccasaluce.edu.it/: HTTPError: 403 Client Error: Forbidden for url: https://www.iccasaluce.edu.it/",
-    "https://www.iccapriatiavolturno.edu.it/: HTTPError: 403 Client Error: Forbidden for url: https://www.iccapriatiavolturno.edu.it/"
+    "https://www.icmignanomarzano.gov. it/: InvalidURL: Failed to parse: Host 'www.icmignanomarzano.gov. it' contains invalid character ' '",
+    "https://www.iciboscoporticodicaserta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iciboscoporticodicaserta.gov.it', port=443): Max retries exceeded with",
+    "https://www.icluigisettembrini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icluigisettembrini.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.icmignanomarzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmignanomarzano.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.icmaceratacampania.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmaceratacampania.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.icgricignanodiaversa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icgricignanodiaversa.gov.it', port=443): Max retries exceeded with url"
   ]
 }
