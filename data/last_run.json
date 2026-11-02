@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-02T07:38:38.257986+01:00",
+  "data_ora": "2026-11-02T09:42:56.881490+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,26 +16,24 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 7,
-  "pagine_lette": 26,
-  "errori_siti": 10,
-  "scuole_cursor": 216,
+  "scuole_lette": 9,
+  "pagine_lette": 37,
+  "errori_siti": 8,
+  "scuole_cursor": 228,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://icpietramelara1.wixsite.com/: HTTPError: 404 Client Error: Not Found for url: https://icpietramelara1.wixsite.com/",
-    "https://istitutocomprensivomoropascoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='istitutocomprensivomoropascoli.gov.it', port=443): Max retries exceeded wi",
-    "https://istcomprensivocapodrise.it/: ConnectionError: HTTPSConnectionPool(host='istcomprensivocapodrise.it', port=443): Max retries exceeded with url: / (",
-    "https://teanoistitutocomprensivo.gov.it/: ConnectionError: HTTPSConnectionPool(host='teanoistitutocomprensivo.gov.it', port=443): Max retries exceeded with url",
-    "https://iacuccella.altervista.org/: ConnectionError: HTTPSConnectionPool(host='iacuccella.altervista.org', port=443): Max retries exceeded with url: / (C",
-    "https://icsanleone.gov.it/: ConnectionError: HTTPSConnectionPool(host='icsanleone.gov.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.adecurtis.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.adecurtis.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.alberghieropiedimonte.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.alberghieropiedimonte.edu.it', port=443): Max retries exceeded with ur",
-    "https://mediagravante.altervista.org/: ConnectionError: HTTPSConnectionPool(host='mediagravante.altervista.org', port=443): Max retries exceeded with url: /",
-    "https://icpietramelara1.wxsite.com/: ConnectTimeout: HTTPSConnectionPool(host='icpietramelara1.wxsite.com', port=443): Max retries exceeded with url: / ("
+    "https://www.aldomoromaddaloni.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.aldomoromaddaloni.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.carinola-falcianodelmassico.it/: ConnectionError: HTTPSConnectionPool(host='www.carinola-falcianodelmassico.it', port=443): Max retries exceeded with ",
+    "https://www.circolocesa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolocesa.gov.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.circolodidatticoortadiatella.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolodidatticoortadiatella.gov.it', port=443): Max retries exceeded ",
+    "https://www.amaldionline.it/: ConnectionError: HTTPSConnectionPool(host='www.amaldionline.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.aldomoromaddaloni.it/: ConnectionError: HTTPSConnectionPool(host='www.aldomoromaddaloni.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.campofalerno.it/: ConnectionError: HTTPSConnectionPool(host='www.campofalerno.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.collecini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.collecini.gov.it', port=443): Max retries exceeded with url: / (Caused"
   ]
 }
