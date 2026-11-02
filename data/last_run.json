@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-02T12:27:18.820325+01:00",
+  "data_ora": "2026-11-02T13:29:07.195800+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 42,
-  "errori_siti": 6,
-  "scuole_cursor": 252,
+  "scuole_lette": 9,
+  "pagine_lette": 38,
+  "errori_siti": 8,
+  "scuole_cursor": 264,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.ic frignano.it/: InvalidURL: Failed to parse: Host 'www.ic frignano.it' contains invalid character ' '",
-    "https://www.ic2avezzanasmcv.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2avezzanasmcv.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.icaldomorosanfeliceacancello.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icaldomorosanfeliceacancello.edu.it', port=443): Max retries exceeded ",
-    "https://www.ic2avezzanasmcv.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2avezzanasmcv.edu.it', port=443): Max retries exceeded with url: / (",
-    "https://www.icaldomorosanfeliceacancelloscalo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icaldomorosanfeliceacancelloscalo.edu.it', port=443): Max retries exce",
-    "https://www.icaltocasertano.it/: ConnectTimeout: HTTPSConnectionPool(host='www.icaltocasertano.it', port=443): Max retries exceeded with url: / (Caus"
+    "https://www.icbasiledonmilani.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icbasiledonmilani.edu.it', port=443): Max retries exceeded with url: /",
+    "https://www.icbasiledonmilani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icbasiledonmilani.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.icboscoporticodicaserta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icboscoporticodicaserta.gov.it', port=443): Max retries exceeded with ",
+    "https://www.iccalcara.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccalcara.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.iccalderisi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccalderisi.gov.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.iccapolddsannicolalastrada.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccapolddsannicolalastrada.gov.it', port=443): Max retries exceeded wi",
+    "https://www.iccalcara.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.icassolimene.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
