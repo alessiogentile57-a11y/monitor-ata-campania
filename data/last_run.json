@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-02T00:10:46.080125+01:00",
+  "data_ora": "2026-11-02T01:07:06.129215+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,22 +17,22 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 10,
-  "pagine_lette": 36,
+  "pagine_lette": 31,
   "errori_siti": 7,
-  "scuole_cursor": 144,
+  "scuole_cursor": 156,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 10,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icalpimontesarchio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icalpimontesarchio.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.galileivetrone.it/: ConnectionError: HTTPSConnectionPool(host='www.galileivetrone.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.ic2montesachio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2montesachio.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.iccollesannita.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccollesannita.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.ic2montesarchio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2montesarchio.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.icdugenta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdugenta.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.galileibn.it/: ConnectionError: HTTPConnectionPool(host='ourgucci.com', port=80): Max retries exceeded with url: / (Caused by NameRe"
+    "https://www.iclucarelli-benevento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iclucarelli-benevento.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.icmorcone.it/: ConnectionError: HTTPSConnectionPool(host='www.icmorcone.it', port=443): Max retries exceeded with url: / (Caused by ",
+    "https://www.icfoglianise.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icfoglianise.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.ickennedy.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ickennedy.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.icpadrepioairola.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpadrepioairola.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.icmoiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmoiano.gov.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.icpadreisaia.edu.it/: SSLError: HTTPSConnectionPool(host='www.icpadreisaia.edu.it', port=443): Max retries exceeded with url: / (Cau"
   ]
 }
