@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-03T08:49:16.291464+01:00",
+  "data_ora": "2026-11-03T10:28:15.166056+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,22 +17,22 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 10,
-  "pagine_lette": 38,
+  "pagine_lette": 34,
   "errori_siti": 7,
-  "scuole_cursor": 468,
+  "scuole_cursor": 480,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.cdsequino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cdsequino.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.cncesaro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cncesaro.gov.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.cn.cesaro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cn.cesaro.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.circolodidatticoeduardodefilippo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolodidatticoeduardodefilippo.gov.it', port=443): Max retries excee",
-    "https://www.comprensivocileamameli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.comprensivocileamameli.gov.it', port=443): Max retries exceeded with u",
-    "https://www.comprensivoalfieri.it/: SSLError: HTTPSConnectionPool(host='www.comprensivoalfieri.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.comprensivocapraroprocida.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.comprensivocimitile.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.comprensivocimitile.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.comprensivocileamameli.it/: ConnectionError: HTTPSConnectionPool(host='www.comprensivocileamameli.it', port=443): Max retries exceeded with url: ",
+    "https://www.comprensivoleopardi.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.comprensivoleopardi.edu.it', port=443): Max retries exceeded with url:",
+    "https://www.comprensivoguadagni.it.it/: ConnectionError: HTTPSConnectionPool(host='www.comprensivoguadagni.it.it', port=443): Max retries exceeded with url: ",
+    "https://www.comprensivoleopardi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.comprensivoleopardi.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.confalonierinapoli.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.comprensivoterzoceschelli.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
