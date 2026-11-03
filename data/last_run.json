@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-03T13:27:22.560978+01:00",
+  "data_ora": "2026-11-03T14:45:31.634819+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 8,
-  "pagine_lette": 32,
-  "errori_siti": 9,
-  "scuole_cursor": 516,
+  "scuole_lette": 7,
+  "pagine_lette": 30,
+  "errori_siti": 10,
+  "scuole_cursor": 528,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,14 +27,15 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.ferrajolosiani.gov.itistruzione.it/: ConnectionError: HTTPSConnectionPool(host='www.ferrajolosiani.gov.itistruzione.it', port=443): Max retries exceeded w",
-    "https://www.giordanobrunonola.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.giordanobrunonola.edu.it', port=443): Max retries exceeded with url: /",
-    "https://www.giordanobrunonola.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.giordanobrunonola.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.galileicardito.it/: ConnectionError: HTTPSConnectionPool(host='www.galileicardito.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.giudtinofortunatonapoli.it/: ConnectionError: HTTPSConnectionPool(host='www.giudtinofortunatonapoli.it', port=443): Max retries exceeded with url:",
-    "https://www.giustinofortunatonapoli.it/: ConnectionError: HTTPSConnectionPool(host='www.giustinofortunatonapoli.it', port=443): Max retries exceeded with url:",
-    "https://www.giustinofortunatonapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.giustinofortunatonapoli.gov.it', port=443): Max retries exceeded with ",
-    "https://www.ferrajolosiani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ferrajolosiani.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.gmarconi4.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.ic 2 castaldo-nosengo.it/: InvalidURL: Failed to parse: Host 'www.ic 2 castaldo-nosengo.it' contains invalid character ' '",
+    "https://www.ic1donboscomelloni.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic1donboscomelloni.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.i.c.61sauropascoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.i.c.61sauropascoli.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.ic.28aliotta.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ic.28aliotta.edu.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.ic-angioletti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic-angioletti.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.ic1cangemiboscoreale.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic1cangemiboscoreale.gov.it', port=443): Max retries exceeded with url",
+    "https://www.ic.28aliotta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic.28aliotta.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.grazinicesarovesevus.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.grazinicesarovesevus.edu.it', port=443): Max retries exceeded with url",
+    "https://www.ic20villafleurentnapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic20villafleurentnapoli.gov.it', port=443): Max retries exceeded with ",
+    "https://www.ic22albertomario.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
