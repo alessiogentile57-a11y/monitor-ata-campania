@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-03T04:27:12.842300+01:00",
+  "data_ora": "2026-11-03T05:29:09.007086+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 36,
-  "errori_siti": 8,
-  "scuole_cursor": 420,
+  "scuole_lette": 8,
+  "pagine_lette": 33,
+  "errori_siti": 9,
+  "scuole_cursor": 432,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 10,
@@ -27,13 +27,14 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www. galileicardito.it/: InvalidURL: Failed to parse: Host 'www. galileicardito.it' contains invalid character ' '",
-    "https://naisdellaporta-porzio-colosimo.edu.it/: ConnectionError: HTTPSConnectionPool(host='naisdellaporta-porzio-colosimo.edu.it', port=443): Max retries exceeded wi",
-    "https://scuolaprimariaterzigno.gov.it/: ConnectionError: HTTPSConnectionPool(host='scuolaprimariaterzigno.gov.it', port=443): Max retries exceeded with url: ",
-    "https://primocircolodidatticofrattamaggiore.edu.it/: ConnectionError: HTTPSConnectionPool(host='primocircolodidatticofrattamaggiore.edu.it', port=443): Max retries exceed",
-    "https://ww.circolodidatticogrumonevano.gov.it/: ConnectionError: HTTPSConnectionPool(host='ww.circolodidatticogrumonevano.gov.it', port=443): Max retries exceeded wi",
-    "https://www.2circolopoggiomarino.it/: ConnectionError: HTTPSConnectionPool(host='www.2circolopoggiomarino.it', port=443): Max retries exceeded with url: / ",
-    "https://www.1cdsomma.it/: HTTPError: 429 Client Error: Too Many Requests for url: https://www.1cdsomma.it/",
-    "https://www.22ddalbertomario.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.83circolodinapoli.com/: ConnectionError: HTTPSConnectionPool(host='www.83circolodinapoli.com', port=443): Max retries exceeded with url: / (C",
+    "https://www.3circolocaivano.wordpress.com/: SSLError: HTTPSConnectionPool(host='www.3circolocaivano.wordpress.com', port=443): Max retries exceeded with u",
+    "https://www.3circoloportici.it/: ConnectionError: HTTPSConnectionPool(host='www.3circoloportici.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.72cdnapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.72cdnapoli.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.7circolopozzuoli.it/: ConnectionError: HTTPSConnectionPool(host='www.7circolopozzuoli.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.acerra4.altervista.org/: ConnectionError: HTTPSConnectionPool(host='www.acerra4.altervista.org', port=443): Max retries exceeded with url: / (",
+    "https://www.41console.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.41console.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.acerra4.altevista.org/: SSLError: HTTPSConnectionPool(host='www.acerra4.altevista.org', port=443): Max retries exceeded with url: / (C",
+    "https://www.2circolosangiorgio.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
