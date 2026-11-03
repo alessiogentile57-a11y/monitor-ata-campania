@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-03T17:29:07.064286+01:00",
+  "data_ora": "2026-11-03T18:28:32.067528+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 38,
-  "errori_siti": 6,
-  "scuole_cursor": 552,
+  "scuole_lette": 9,
+  "pagine_lette": 34,
+  "errori_siti": 8,
+  "scuole_cursor": 564,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.ic2massaia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2massaia.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.ic3castaldirodari.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic3castaldirodari.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.ic2panzinicastellammare.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2panzinicastellammare.gov.it', port=443): Max retries exceeded with ",
-    "https://www.ic3decurtisungaretti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic3decurtisungaretti.gov.it', port=443): Max retries exceeded with url",
-    "https://www.ic46scialiacortese.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ic46scialiacortese.edu.it', port=443): Max retries exceeded with url: ",
-    "https://www.ic3pozzuoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic3pozzuoli.gov.it', port=443): Max retries exceeded with url: / (Caus"
+    "https://www.ic46scialoiacortese.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ic46scialoiacortese.edu.it', port=443): Max retries exceeded with url:",
+    "https://www.ic4pergolesi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic4pergolesi.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.ic4delauzieresportici.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic4delauzieresportici.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.ic4stanziale.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic4stanziale.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.ic57bosco.net/: ConnectionError: HTTPSConnectionPool(host='www.ic57bosco.net', port=443): Max retries exceeded with url: / (Caused by",
+    "https://www.ic58jfkennedy.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic58jfkennedy.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.ic4pergolesi.it/: SSLError: HTTPSConnectionPool(host='www.ic4pergolesi.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.ic49napoli.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
