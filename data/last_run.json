@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-03T16:20:10.293273+01:00",
+  "data_ora": "2026-11-03T17:29:07.064286+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,23 +16,22 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 33,
-  "errori_siti": 7,
-  "scuole_cursor": 540,
+  "scuole_lette": 11,
+  "pagine_lette": 38,
+  "errori_siti": 6,
+  "scuole_cursor": 552,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 10,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.ic26imbrianideliguori.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic26imbrianideliguori.gov.it', port=443): Max retries exceeded with ur",
-    "https://www.ic2datiboscoreale.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2datiboscoreale.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.ic2degaspericaivani.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2degaspericaivani.it', port=443): Max retries exceeded with url: / (",
-    "https://www.ic28aliotta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic28aliotta.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.ic2donbosco-verdi.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2donbosco-verdi.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.ic2donbosco-verdi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2donbosco-verdi.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.ic2degaspericaivano.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.ic2massaia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2massaia.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.ic3castaldirodari.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic3castaldirodari.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.ic2panzinicastellammare.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2panzinicastellammare.gov.it', port=443): Max retries exceeded with ",
+    "https://www.ic3decurtisungaretti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic3decurtisungaretti.gov.it', port=443): Max retries exceeded with url",
+    "https://www.ic46scialiacortese.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ic46scialiacortese.edu.it', port=443): Max retries exceeded with url: ",
+    "https://www.ic3pozzuoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic3pozzuoli.gov.it', port=443): Max retries exceeded with url: / (Caus"
   ]
 }
