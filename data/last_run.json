@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-04T07:35:44.514074+01:00",
+  "data_ora": "2026-11-04T08:54:21.404607+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,9 +17,9 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 9,
-  "pagine_lette": 29,
+  "pagine_lette": 38,
   "errori_siti": 8,
-  "scuole_cursor": 708,
+  "scuole_cursor": 720,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icsamarcobonitocosenza.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icsamarcobonitocosenza.edu.it', port=443): Max retries exceeded with u",
-    "https://www.ics88eduardodefilippo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ics88eduardodefilippo.gov.it', port=443): Max retries exceeded with ur",
-    "https://www.icsangiovanniboscovolla.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsangiovanniboscovolla.gov.it', port=443): Max retries exceeded with ",
-    "https://www.icsangaetano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsangaetano.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.icrussolillo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icrussolillo.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.icsangaetano.it/: SSLError: HTTPSConnectionPool(host='www.icsangaetano.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.icsanrocco.it/: SSLError: HTTPSConnectionPool(host='www.icsanrocco.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.icsaldomoro.it/: SSLError: HTTPSConnectionPool(host='www.icsaldomoro.it', port=443): Max retries exceeded with url: / (Caused b"
+    "https://www.icsantantimo3.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsantantimo3.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.icscudillosalvemini.it/: ConnectionError: HTTPSConnectionPool(host='www.icscudillosalvemini.it', port=443): Max retries exceeded with url: / (",
+    "https://www.icscudillosalvemini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icscudillosalvemini.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.icsbarano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsbarano.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.icscarduccimariglianella.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icscarduccimariglianella.gov.it', port=443): Max retries exceeded with",
+    "https://www.icscarduccimariglianella.it/: ConnectionError: HTTPSConnectionPool(host='www.icscarduccimariglianella.it', port=443): Max retries exceeded with url",
+    "https://www.icsciscianosanvitaliano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsciscianosanvitaliano.gov.it', port=443): Max retries exceeded with ",
+    "https://www.icsdelpozzo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsdelpozzo.gov.it', port=443): Max retries exceeded with url: / (Caus"
   ]
 }
