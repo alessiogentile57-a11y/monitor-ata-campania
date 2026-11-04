@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-04T05:31:35.424614+01:00",
+  "data_ora": "2026-11-04T06:33:33.698774+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,9 +17,9 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 10,
-  "pagine_lette": 36,
+  "pagine_lette": 34,
   "errori_siti": 7,
-  "scuole_cursor": 684,
+  "scuole_cursor": 696,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,12 +27,12 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icorianiguarino.it/: ConnectionError: HTTPSConnectionPool(host='www.icorianiguarino.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.icpadrearturodonofrio.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icpadrearturodonofrio.edu.it', port=443): Max retries exceeded with ur",
-    "https://www.icnicolini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icnicolini.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.icpaoloditarso.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpaoloditarso.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.icninocortese.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icninocortese.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.icpianodisorrento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpianodisorrento.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.icplinioilvecchio-gramsci.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icplinioilvecchio-gramsci.gov.it', port=443): Max retries exceeded wit"
+    "https://www.icromeocammisa.it/: ConnectionError: HTTPSConnectionPool(host='www.icromeocammisa.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icrossinivisciano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icrossinivisciano.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.icromeocammisa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icromeocammisa.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.icpologalilei-cardito.it/: ConnectionError: HTTPSConnectionPool(host='www.icpologalilei-cardito.it', port=443): Max retries exceeded with url: /",
+    "https://www.icquasimodocrispano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icquasimodocrispano.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.icpuccini4cd.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpuccini4cd.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.icritalevimontalcinigiugliano.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
