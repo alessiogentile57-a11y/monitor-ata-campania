@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-04T01:13:43.023825+01:00",
+  "data_ora": "2026-11-04T02:41:09.861048+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -19,19 +19,19 @@
   "scuole_lette": 11,
   "pagine_lette": 41,
   "errori_siti": 6,
-  "scuole_cursor": 648,
+  "scuole_cursor": 660,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icgenoinodacquisto.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icgenoinodacquisto.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.icgragnanoterzo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icgragnanoterzo.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.icibsencasamicciola.edu/: ConnectionError: HTTPSConnectionPool(host='www.icibsencasamicciola.edu', port=443): Max retries exceeded with url: / ",
-    "https://www.icfdicapua.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icfdicapua.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.icibsencasamicciola.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.icforio2.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.icmarconi-torricelli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmarconi-torricelli.gov.it', port=443): Max retries exceeded with url",
+    "https://www.ickwojtyla.it/: ConnectionError: HTTPSConnectionPool(host='www.ickwojtyla.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://www.icmauriello.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmauriello.gov.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.icmarconitorricelli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmarconitorricelli.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.icmbeneventano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmbeneventano.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.icmauromitilini.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
