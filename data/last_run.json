@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-04T11:42:47.942184+01:00",
+  "data_ora": "2026-11-04T13:21:02.239165+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,23 +16,26 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 36,
-  "errori_siti": 7,
-  "scuole_cursor": 744,
+  "scuole_lette": 7,
+  "pagine_lette": 28,
+  "errori_siti": 10,
+  "scuole_cursor": 756,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 22,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icsocratemallardo.it/: ConnectionError: HTTPSConnectionPool(host='www.icsocratemallardo.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.icsmameli.it/: ConnectionError: HTTPSConnectionPool(host='www.icsmameli.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.icspellicolettere.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icspellicolettere.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.icsorrento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsorrento.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.icssavio-alfieri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icssavio-alfieri.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.icsianivillaricca.it/: SSLError: HTTPSConnectionPool(host='www.icsianivillaricca.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.icsocratemallardo.edu.it/: ConnectTimeout: HTTPSConnectionPool(host='www.icsocratemallardo.edu.it', port=443): Max retries exceeded with url: /"
+    "https://www.ictassosorrento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ictassosorrento.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.icsvittorinodafeltre.it/: ConnectionError: HTTPSConnectionPool(host='www.icsvittorinodafeltre.it', port=443): Max retries exceeded with url: / ",
+    "https://www.icsviviani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsviviani.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icvincenzorusso.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icvincenzorusso.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.icvirgilioquattro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icvirgilioquattro.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.icvittorinodafeltre-sarriamontio.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icvittorinodafeltre-sarriamontio.edu.it', port=443): Max retries excee",
+    "https://www.icvittorinodafeltregov.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icvittorinodafeltregov.edu.it', port=443): Max retries exceeded with u",
+    "https://www.icterzogadda.it/: SSLError: HTTPSConnectionPool(host='www.icterzogadda.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.icviscianocamposano.edu.it/: SSLError: HTTPSConnectionPool(host='www.icviscianocamposano.edu.it', port=443): Max retries exceeded with url:",
+    "https://www.icvittorinodafeltre-sarriamonti.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
