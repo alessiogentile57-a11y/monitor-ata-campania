@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-05T14:51:06.567320+01:00",
+  "data_ora": "2026-11-05T16:30:02.031158+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 37,
-  "errori_siti": 6,
-  "scuole_cursor": 1020,
+  "scuole_lette": 9,
+  "pagine_lette": 33,
+  "errori_siti": 8,
+  "scuole_cursor": 1032,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.primocircoloqualiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircoloqualiano.gov.it', port=443): Max retries exceeded with url",
-    "https://www.primoicsantanastasia.it/: ConnectionError: HTTPSConnectionPool(host='www.primoicsantanastasia.it', port=443): Max retries exceeded with url: / ",
-    "https://www.primoludovicodacasoria.it/: ConnectionError: HTTPSConnectionPool(host='www.primoludovicodacasoria.it', port=443): Max retries exceeded with url: ",
-    "https://www.quintocircologiugliano.it/: ConnectionError: HTTPSConnectionPool(host='www.quintocircologiugliano.it', port=443): Max retries exceeded with url: ",
-    "https://www.quartocircologiugliano.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.primocircolosangiuseppevesuviano.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.scuola maiuripompei.gov.it/: InvalidURL: Failed to parse: Host 'www.scuola maiuripompei.gov.it' contains invalid character ' '",
+    "https://www.scuolacimarosa.gov/: ConnectionError: HTTPSConnectionPool(host='www.scuolacimarosa.gov', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.scuolacimarosa.com/: ConnectionError: HTTPSConnectionPool(host='www.scuolacimarosa.com', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.scuolafoscoloberdan.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolafoscoloberdan.edu.it', port=443): Max retries exceeded with url:",
+    "https://www.scuolafoscoloberdan.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolafoscoloberdan.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.scuolamaiuripompei.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolamaiuripompei.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.scuolacaporaleacerra.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.scuolamaiuripompei.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
