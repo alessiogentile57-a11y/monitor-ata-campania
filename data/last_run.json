@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-05T19:17:17.294007+01:00",
+  "data_ora": "2026-11-05T20:30:43.477956+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 46,
-  "errori_siti": 6,
-  "scuole_cursor": 1056,
+  "scuole_lette": 5,
+  "pagine_lette": 22,
+  "errori_siti": 12,
+  "scuole_cursor": 1068,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,17 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.xxcircolonapoli.com/: ConnectionError: HTTPSConnectionPool(host='www.xxcircolonapoli.com', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.sommadue.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.sommadue.gov.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://wwwatellanofrattaminore.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwatellanofrattaminore.edu.it', port=443): Max retries exceeded with url:",
-    "https://wwwic1cangemiboscoreale.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwic1cangemiboscoreale.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.vittoriovenetonapoli.it/: SSLError: HTTPSConnectionPool(host='www.vittoriovenetonapoli.it', port=443): Max retries exceeded with url: / ",
-    "https://www.vivianinapoli.it/: SSLError: HTTPSConnectionPool(host='www.vivianinapoli.it', port=443): Max retries exceeded with url: / (Caused"
+    "https://wwwicdenicolasasso.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwicdenicolasasso.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://wwwic2panzinicastellammare.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzinicastellammare.edu.it', port=443): Max retries exceeded with u",
+    "https://circolodidatticobaronissi.gov.it/: ConnectionError: HTTPSConnectionPool(host='circolodidatticobaronissi.gov.it', port=443): Max retries exceeded with ur",
+    "https://wwwic2panzini.castellammare.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzini.castellammare.edu.it', port=443): Max retries exceeded with ",
+    "https://wwwitismarconi.it/: ConnectionError: HTTPSConnectionPool(host='wwwitismarconi.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://ddmontesanosm.it/: ConnectionError: HTTPSConnectionPool(host='ddmontesanosm.it', port=443): Max retries exceeded with url: / (Caused by ",
+    "https://httpiccamera.edu.it/: ConnectionError: HTTPSConnectionPool(host='httpiccamera.edu.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://wwwic2panzinicastellammare.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzinicastellammare.gov.it', port=443): Max retries exceeded with u",
+    "https://wwwicmassimotroisisangiorgioacremano.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwicmassimotroisisangiorgioacremano.edu.it', port=443): Max retries excee",
+    "https://iccampagnacapoluogo.gov.it/: ConnectionError: HTTPSConnectionPool(host='iccampagnacapoluogo.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://httpswww.icsmontesanosm.edu.it/: SSLError: HTTPSConnectionPool(host='httpswww.icsmontesanosm.edu.it', port=443): Max retries exceeded with url:",
+    "https://icgiacintoromanoeboli.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
