@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-05T08:55:30.270266+01:00",
+  "data_ora": "2026-11-05T10:33:46.758304+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 44,
-  "errori_siti": 6,
-  "scuole_cursor": 960,
+  "scuole_lette": 13,
+  "pagine_lette": 45,
+  "errori_siti": 4,
+  "scuole_cursor": 972,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,9 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.liceomercalli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceomercalli.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.liceomorantenapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceomorantenapoli.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.liceomunari.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceomunari.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.liceolaurabassi.it/: SSLError: HTTPSConnectionPool(host='www.liceolaurabassi.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.liceoischia.edu.it/: SSLError: HTTPSConnectionPool(host='www.liceoischia.edu.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.liceomercalli.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.liceoscientificocopernico.it/: ConnectionError: HTTPSConnectionPool(host='www.liceoscientificocopernico.it', port=443): Max retries exceeded with ur",
+    "https://www.liceosegre.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceosegre.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.liceosenecabacoli.it/: SSLError: HTTPSConnectionPool(host='www.liceosenecabacoli.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.liceorosmini.it/: ConnectTimeout: HTTPSConnectionPool(host='www.liceorosmini.it', port=443): Max retries exceeded with url: / (Caused "
   ]
 }
