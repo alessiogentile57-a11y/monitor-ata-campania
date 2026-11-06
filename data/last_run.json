@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-06T01:15:47.884850+01:00",
+  "data_ora": "2026-11-06T02:48:55.878578+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 45,
-  "errori_siti": 6,
-  "scuole_cursor": 1116,
+  "scuole_lette": 8,
+  "pagine_lette": 31,
+  "errori_siti": 9,
+  "scuole_cursor": 1128,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,14 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iccapacciopaestum.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccapacciopaestum.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.iccapacciocapoluogo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccapacciocapoluogo.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.icbattipagliasalvemini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icbattipagliasalvemini.gov.it', port=443): Max retries exceeded with u",
-    "https://www.iccamera.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccamera.gov.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.iccentola.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccentola.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.iccolliano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccolliano.gov.it', port=443): Max retries exceeded with url: / (Cause"
+    "https://www.icdantealighierisapri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdantealighierisapri.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.icdantelighierisapri.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icdantelighierisapri.edu.it', port=443): Max retries exceeded with url",
+    "https://www.iccolliano.it/: ConnectionError: HTTPSConnectionPool(host='www.iccolliano.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://www.iccontursiterme.it/: ConnectionError: HTTPSConnectionPool(host='www.iccontursiterme.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.icdeamicisbaccelli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdeamicisbaccelli.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.iccontursiterme.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.iccontursiterme.edu.it', port=443): Max retries exceeded with url: / (",
+    "https://www.icfalcoscafati.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icfalcoscafati.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.icdantealighierisapri.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.icdonboscocava.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
