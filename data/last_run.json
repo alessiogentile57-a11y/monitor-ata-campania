@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-06T19:25:03.692614+01:00",
+  "data_ora": "2026-11-06T20:32:10.276400+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,9 +17,9 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 8,
-  "pagine_lette": 33,
+  "pagine_lette": 32,
   "errori_siti": 9,
-  "scuole_cursor": 1284,
+  "scuole_cursor": 1296,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,14 +27,14 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.primocircolo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircolo.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.olivetocitraic.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.olivetocitraic.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.primocircolopagani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircolopagani.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.primocircoloagropoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircoloagropoli.gov.it', port=443): Max retries exceeded with url",
-    "https://www.primoicnocera.it/: ConnectionError: HTTPSConnectionPool(host='www.primoicnocera.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.primocircolopagani.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.marinigioia.it/: ConnectTimeout: HTTPSConnectionPool(host='www.marinigioia.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.primonocerasup.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.primocircoloagropoli.edu.it/: ReadTimeout: HTTPSConnectionPool(host='primocircoloagropoli.edu.it', port=443): Read timed out. (read timeout=6)"
+    "https://www.scuola camerota.it/: InvalidURL: Failed to parse: Host 'www.scuola camerota.it' contains invalid character ' '",
+    "https://www.santacaterina-amendola.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.santacaterina-amendola.gov.it', port=443): Max retries exceeded with u",
+    "https://www.scuolabellizzi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolabellizzi.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.scientificovallo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scientificovallo.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.scafati1circolo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.scafati1circolo.edu.it', port=443): Max retries exceeded with url: / (",
+    "https://www.scuolacamerota.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolacamerota.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.quintocomprensivonocerainferiore.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.quintocomprensivonocerainferiore.gov.it', port=443): Max retries excee",
+    "https://www.scuolabellizzi.edu.it/: SSLError: HTTPSConnectionPool(host='www.scuolabellizzi.edu.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.quartoicnocerainferiore.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
