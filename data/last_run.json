@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-06T13:28:16.644132+01:00",
+  "data_ora": "2026-11-06T14:47:14.768398+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,26 +16,24 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 7,
-  "pagine_lette": 24,
-  "errori_siti": 10,
-  "scuole_cursor": 1224,
+  "scuole_lette": 9,
+  "pagine_lette": 34,
+  "errori_siti": 8,
+  "scuole_cursor": 1236,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.istituto don milani-linguiti.edu.it/: InvalidURL: Failed to parse: Host 'www.istituto don milani-linguiti.edu.it' contains invalid character ' '",
-    "https://www.istitutoanardi.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutoanardi.edu.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.istitutocicerone.gov.itwww.istitutocicerone.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocicerone.gov.itwww.istitutocicerone.it', port=443): Max retrie",
-    "https://www.isisfotunato-angri.it/: ConnectionError: HTTPSConnectionPool(host='www.isisfotunato-angri.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.istitutocicerone.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocicerone.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.istititutosuperioredomenicorea.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istititutosuperioredomenicorea.edu.it', port=443): Max retries exceede",
-    "https://www.istitutocomprensivoascea.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivoascea.it', port=443): Max retries exceeded with url",
-    "https://www.istitutocomprensivobuccino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivobuccino.gov.it', port=443): Max retries exceeded wi",
-    "https://www.istitutocomprensivobuccino.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.isisvirgilio.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.istitutocomprensivoroccapiemonte.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivoroccapiemonte.gov.it', port=443): Max retries excee",
+    "https://www.istitutocomprensivomaiori.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivomaiori.gov.it', port=443): Max retries exceeded wit",
+    "https://www.istitutocomprensivocastelsanlorenzo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivocastelsanlorenzo.gov.it', port=443): Max retries ex",
+    "https://www.istitutocomprensivonocerainferiore.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivonocerainferiore.it', port=443): Max retries exceede",
+    "https://www.istitutocomprensivopellezzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivopellezzano.gov.it', port=443): Max retries exceeded",
+    "https://www.istitutocomprensivoserre.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivoserre.edu.it', port=443): Max retries exceeded with",
+    "https://www.istitutocomprensivoroccadaspide.edu.it/: SSLError: HTTPSConnectionPool(host='www.istitutocomprensivoroccadaspide.edu.it', port=443): Max retries exceed",
+    "https://www.istitutocomprensivodimaiori.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
