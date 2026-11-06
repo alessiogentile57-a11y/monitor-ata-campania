@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-06T05:33:20.283011+01:00",
+  "data_ora": "2026-11-06T06:34:00.621382+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,22 +16,21 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 39,
-  "errori_siti": 6,
-  "scuole_cursor": 1152,
+  "scuole_lette": 12,
+  "pagine_lette": 42,
+  "errori_siti": 5,
+  "scuole_cursor": 1164,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 10,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icomignano.it/: ConnectionError: HTTPSConnectionPool(host='www.icomignano.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.icolevanost.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icolevanost.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.icmoscati.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmoscati.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.icpolla.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpolla.gov.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.icpollica.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpollica.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.icnicodemifiscianocalvanico.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.icsantacroce.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsantacroce.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.icsanciprianopicentino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsanciprianopicentino.gov.it', port=443): Max retries exceeded with u",
+    "https://www.icsanmarzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsanmarzano.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.icsantalfonso.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsantalfonso.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.icsantalfonsopagani.it/: HTTPError: 503 Server Error: Service Unavailable for url: https://www.icsantalfonsopagani.it/"
   ]
 }
