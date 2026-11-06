@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-06T08:53:07.700959+01:00",
+  "data_ora": "2026-11-06T10:30:44.105838+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 37,
-  "errori_siti": 6,
-  "scuole_cursor": 1188,
+  "scuole_lette": 8,
+  "pagine_lette": 28,
+  "errori_siti": 9,
+  "scuole_cursor": 1200,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,14 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icteodorogaza.it/: ConnectionError: HTTPSConnectionPool(host='www.icteodorogaza.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.icvicinanza.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icvicinanza.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.icteggiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icteggiano.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.ictramonti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ictramonti.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.iis-sacco.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iis-sacco.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.ictramonti.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.iisbaronissi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisbaronissi.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.iisbestagloriosi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisbestagloriosi.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.iisperitolevi.it/: ConnectionError: HTTPSConnectionPool(host='www.iisperitolevi.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.iispiranesi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iispiranesi.gov.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.iispisacanesapri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iispisacanesapri.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.iisferraribattipaglia.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.iisgalilei.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "UAT Benevento: ReadTimeout: HTTPSConnectionPool(host='www.mim.gov.it', port=443): Read timed out. (read timeout=6)",
+    "UAT Salerno: ReadTimeout: HTTPSConnectionPool(host='www.mim.gov.it', port=443): Read timed out. (read timeout=6)"
   ]
 }
