@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T16:15:24.726598+01:00",
+  "data_ora": "2026-11-07T17:14:26.580949+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,19 +16,27 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 14,
-  "pagine_lette": 48,
-  "errori_siti": 3,
-  "scuole_cursor": 198,
+  "scuole_lette": 6,
+  "pagine_lette": 25,
+  "errori_siti": 11,
+  "scuole_cursor": 210,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 10,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iisfaicchio-castelvenere.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisfaicchio-castelvenere.gov.it', port=443): Max retries exceeded with",
-    "https://www.ittfaicchio.it/: ConnectionError: HTTPSConnectionPool(host='www.ittfaicchio.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.iisgalileivetrone.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisgalileivetrone.gov.it', port=443): Max retries exceeded with url: /"
+    "https://i.c. f. gesue/: InvalidURL: Failed to parse: Host 'i.c. f. gesue' contains invalid character ' '",
+    "https://i.c. f.gesue/: InvalidURL: Failed to parse: Host 'i.c. f.gesue' contains invalid character ' '",
+    "https://i.c.gesue/: ConnectionError: HTTPSConnectionPool(host='i.c.gesue', port=443): Max retries exceeded with url: / (Caused by NameRes",
+    "https://convittonifo.it/: ConnectionError: HTTPSConnectionPool(host='convittonifo.it', port=443): Max retries exceeded with url: / (Caused by N",
+    "https://iacuccella.altervista.org/: ConnectionError: HTTPSConnectionPool(host='iacuccella.altervista.org', port=443): Max retries exceeded with url: / (C",
+    "https://www.vallevitulanese.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.vallevitulanese.edu.it', port=443): Max retries exceeded with url: / (",
+    "https://istcomprensivocapodrise.it/: ConnectionError: HTTPSConnectionPool(host='istcomprensivocapodrise.it', port=443): Max retries exceeded with url: / (",
+    "https://icpietramelara1.wixsite.com/: HTTPError: 404 Client Error: Not Found for url: https://icpietramelara1.wixsite.com/",
+    "https://icsanleone.gov.it/: ConnectionError: HTTPSConnectionPool(host='icsanleone.gov.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://istitutocomprensivomoropascoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='istitutocomprensivomoropascoli.gov.it', port=443): Max retries exceeded wi",
+    "https://icpietramelara1.wxsite.com/: ConnectTimeout: HTTPSConnectionPool(host='icpietramelara1.wxsite.com', port=443): Max retries exceeded with url: / ("
   ]
 }
