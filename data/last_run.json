@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T23:13:05.981205+01:00",
+  "data_ora": "2026-11-08T00:11:44.824610+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,23 +16,21 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 36,
-  "errori_siti": 7,
-  "scuole_cursor": 282,
+  "scuole_lette": 12,
+  "pagine_lette": 49,
+  "errori_siti": 5,
+  "scuole_cursor": 294,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 20,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icfrignano.it/: ConnectionError: HTTPSConnectionPool(host='www.icfrignano.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.iciboscoporticodicaserta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iciboscoporticodicaserta.gov.it', port=443): Max retries exceeded with",
-    "https://www.icgricignanodiaversa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icgricignanodiaversa.gov.it', port=443): Max retries exceeded with url",
-    "https://www.icdd2.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdd2.gov.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.icluigisettembrini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icluigisettembrini.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.icmaceratacampania.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmaceratacampania.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.icdd2.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icdd2.edu.it', port=443): Max retries exceeded with url: / (Caused by "
+    "https://www.icmignanomarzano.gov. it/: InvalidURL: Failed to parse: Host 'www.icmignanomarzano.gov. it' contains invalid character ' '",
+    "https://www.icparenteaversa.it/: ConnectionError: HTTPSConnectionPool(host='www.icparenteaversa.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.icmoromarcianise.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmoromarcianise.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.icmignanomarzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmignanomarzano.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.icpignatarocamigliano.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
