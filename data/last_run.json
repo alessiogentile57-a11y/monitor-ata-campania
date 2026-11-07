@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T11:20:40.574130+01:00",
+  "data_ora": "2026-11-07T12:14:47.920312+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -19,7 +19,7 @@
   "scuole_lette": 11,
   "pagine_lette": 35,
   "errori_siti": 6,
-  "scuole_cursor": 138,
+  "scuole_cursor": 150,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,11 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.ic2montesachio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2montesachio.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.galieli.it/: ConnectionError: HTTPSConnectionPool(host='www.galieli.it', port=443): Max retries exceeded with url: / (Caused by Na",
-    "https://www.galileivetrone.it/: ConnectionError: HTTPSConnectionPool(host='www.galileivetrone.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.cpiabenevento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cpiabenevento.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.ic2montesarchio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2montesarchio.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.galileibn.it/: ConnectionError: HTTPConnectionPool(host='ourgucci.com', port=80): Max retries exceeded with url: / (Caused by NameRe"
+    "https://www.icalpimontesarchio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icalpimontesarchio.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.icdugenta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdugenta.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.ickennedy.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ickennedy.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.iccollesannita.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccollesannita.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.icfoglianise.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icfoglianise.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.iclucarelli-benevento.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iclucarelli-benevento.gov.it', port=443): Max retries exceeded with ur"
   ]
 }
