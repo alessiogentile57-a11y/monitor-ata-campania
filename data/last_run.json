@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T05:27:57.930577+01:00",
+  "data_ora": "2026-11-07T06:25:52.829958+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,22 +17,22 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 10,
-  "pagine_lette": 37,
+  "pagine_lette": 32,
   "errori_siti": 7,
-  "scuole_cursor": 78,
+  "scuole_cursor": 90,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 10,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icserino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icserino.gov.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.icstommaso-f.tedesco.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icstommaso-f.tedesco.edu.it', port=443): Max retries exceeded with url",
-    "https://www.icrotondi.it/: ConnectionError: HTTPSConnectionPool(host='www.icrotondi.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.icsolofrafrancescoguarini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsolofrafrancescoguarini.gov.it', port=443): Max retries exceeded wit",
-    "https://www.icserino.udu.it/: ConnectionError: HTTPSConnectionPool(host='www.icserino.udu.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.iisgrottaminarda.it/: HTTPError: 503 Server Error: Service Unavailable for url: https://www.iisgrottaminarda.it/",
-    "https://www.iissdesanctis.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.iissgrottaminarda.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iissgrottaminarda.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.iissvanvitelli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iissvanvitelli.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.isisbaianeselauro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisbaianeselauro.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.isisnobileamundsen.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.isisnobileamundsen.edu.it', port=443): Max retries exceeded with url: ",
+    "https://www.iissrinaldodaquino.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.isaliceodeluca.it/: ConnectTimeout: HTTPSConnectionPool(host='www.isaliceodeluca.it', port=443): Max retries exceeded with url: / (Cause",
+    "UAT Salerno: ReadTimeout: HTTPSConnectionPool(host='www.mim.gov.it', port=443): Read timed out. (read timeout=6)"
   ]
 }
