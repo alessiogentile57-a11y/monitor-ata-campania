@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T13:13:10.504745+01:00",
+  "data_ora": "2026-11-07T14:30:05.636210+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 36,
-  "errori_siti": 8,
-  "scuole_cursor": 162,
+  "scuole_lette": 8,
+  "pagine_lette": 31,
+  "errori_siti": 9,
+  "scuole_cursor": 174,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,14 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icmorcone.it/: ConnectionError: HTTPSConnectionPool(host='www.icmorcone.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.icparepioairola.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icparepioairola.edu.it', port=443): Max retries exceeded with url: / (",
-    "https://www.icmoiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmoiano.gov.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.icpadrepioairola.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpadrepioairola.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.icpontelandolfo.it/: ConnectionError: HTTPSConnectionPool(host='www.icpontelandolfo.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.icpontebn.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icpontebn.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.icoriani.it/: HTTPError: 503 Server Error: Service Unavailable for url: https://www.icoriani.it/",
-    "https://www.icpadreisaia.edu.it/: SSLError: HTTPSConnectionPool(host='www.icpadreisaia.edu.it', port=443): Max retries exceeded with url: / (Cau"
+    "https://www.icsanleuciodelsannio.edu.itit/: ConnectionError: HTTPSConnectionPool(host='www.icsanleuciodelsannio.edu.itit', port=443): Max retries exceeded with u",
+    "https://www.icsangiorgiodelsannio.com/: ConnectionError: HTTPSConnectionPool(host='www.icsangiorgiodelsannio.com', port=443): Max retries exceeded with url: ",
+    "https://www.icpontelandolfo/: ConnectionError: HTTPSConnectionPool(host='www.icpontelandolfo', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.icsanbartolomeo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsanbartolomeo.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.icsanfilippo.it/: ConnectionError: HTTPSConnectionPool(host='www.icsanfilippo.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.icprimomontesarchio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icprimomontesarchio.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.icsanleuciodelsannio.it/: HTTPError: 530 Server Error: <none> for url: https://www.icsanleuciodelsannio.it/",
+    "https://www.icsangiorgiodelsannio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsangiorgiodelsannio.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.icsanleuciodelsannio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsanleuciodelsannio.gov.it', port=443): Max retries exceeded with url"
   ]
 }
