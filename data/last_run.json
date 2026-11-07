@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T18:13:36.955219+01:00",
+  "data_ora": "2026-11-07T19:09:52.477118+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 8,
-  "pagine_lette": 29,
-  "errori_siti": 9,
-  "scuole_cursor": 222,
+  "scuole_lette": 11,
+  "pagine_lette": 40,
+  "errori_siti": 6,
+  "scuole_cursor": 234,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,14 +27,11 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.aldomoromaddaloni.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.aldomoromaddaloni.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.alberghieropiedimonte.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.alberghieropiedimonte.edu.it', port=443): Max retries exceeded with ur",
-    "https://www.adecurtis.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.adecurtis.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://teanoistitutocomprensivo.gov.it/: ConnectionError: HTTPSConnectionPool(host='teanoistitutocomprensivo.gov.it', port=443): Max retries exceeded with url",
-    "https://www.amaldionline.it/: ConnectionError: HTTPSConnectionPool(host='www.amaldionline.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.aldomoromaddaloni.it/: ConnectionError: HTTPSConnectionPool(host='www.aldomoromaddaloni.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://mediagravante.altervista.org/: ConnectionError: HTTPSConnectionPool(host='mediagravante.altervista.org', port=443): Max retries exceeded with url: /",
-    "https://www.campofalerno.it/: ConnectionError: HTTPSConnectionPool(host='www.campofalerno.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.carinola-falcianodelmassico.it/: ConnectionError: HTTPSConnectionPool(host='www.carinola-falcianodelmassico.it', port=443): Max retries exceeded with "
+    "https://www.convittogiordanobruno.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.convittogiordanobruno.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.circolocesa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolocesa.gov.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.circolodidatticoortadiatella.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolodidatticoortadiatella.gov.it', port=443): Max retries exceeded ",
+    "https://www.collecini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.collecini.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.convittonazionalenifo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.convittonazionalenifo.edu.it', port=443): Max retries exceeded with ur",
+    "https://www.convittonifo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.convittonifo.edu.it', port=443): Max retries exceeded with url: / (Cau"
   ]
 }
