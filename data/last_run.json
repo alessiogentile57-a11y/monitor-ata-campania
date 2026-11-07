@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T06:25:52.829958+01:00",
+  "data_ora": "2026-11-07T07:24:38.146534+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 32,
-  "errori_siti": 7,
-  "scuole_cursor": 90,
+  "scuole_lette": 7,
+  "pagine_lette": 28,
+  "errori_siti": 10,
+  "scuole_cursor": 102,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,12 +27,15 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iissgrottaminarda.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iissgrottaminarda.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.iissvanvitelli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iissvanvitelli.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.isisbaianeselauro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisbaianeselauro.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.isisnobileamundsen.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.isisnobileamundsen.edu.it', port=443): Max retries exceeded with url: ",
-    "https://www.iissrinaldodaquino.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.isaliceodeluca.it/: ConnectTimeout: HTTPSConnectionPool(host='www.isaliceodeluca.it', port=443): Max retries exceeded with url: / (Cause",
-    "UAT Salerno: ReadTimeout: HTTPSConnectionPool(host='www.mim.gov.it', port=443): Read timed out. (read timeout=6)"
+    "https://www.istitutocomprensivocalitri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivocalitri.gov.it', port=443): Max retries exceeded wi",
+    "https://www.istcomprensivocriscuoli.it/: ConnectionError: HTTPSConnectionPool(host='www.istcomprensivocriscuoli.it', port=443): Max retries exceeded with url:",
+    "https://www.istitutocomprensivocardito.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivocardito.gov.it', port=443): Max retries exceeded wi",
+    "https://www.istitutocomprensivomanzoni.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivomanzoni.it', port=443): Max retries exceeded with u",
+    "https://www.istitutocompresivocalitri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocompresivocalitri.gov.it', port=443): Max retries exceeded wit",
+    "https://www.istitutocomprensivomanzoni.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivomanzoni.gov.it', port=443): Max retries exceeded wi",
+    "https://www.istitutocomprensivomontorosuperiore.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivomontorosuperiore.gov.it', port=443): Max retries ex",
+    "https://www.istitutocomprensivocervinara.it/: HTTPError: 503 Server Error: Service Unavailable for url: https://www.istitutocomprensivocervinara.it/",
+    "https://www.istitutocomprensivocalitri.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.istitutocomprensivocalitri.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
