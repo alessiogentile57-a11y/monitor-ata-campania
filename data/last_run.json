@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-07T19:09:52.477118+01:00",
+  "data_ora": "2026-11-07T20:22:23.403774+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 40,
-  "errori_siti": 6,
-  "scuole_cursor": 234,
+  "scuole_lette": 10,
+  "pagine_lette": 35,
+  "errori_siti": 7,
+  "scuole_cursor": 246,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,12 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.convittogiordanobruno.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.convittogiordanobruno.gov.it', port=443): Max retries exceeded with ur",
-    "https://www.circolocesa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolocesa.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.circolodidatticoortadiatella.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolodidatticoortadiatella.gov.it', port=443): Max retries exceeded ",
-    "https://www.collecini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.collecini.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.convittonazionalenifo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.convittonazionalenifo.edu.it', port=443): Max retries exceeded with ur",
-    "https://www.convittonifo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.convittonifo.edu.it', port=443): Max retries exceeded with url: / (Cau"
+    "https://www.ic frignano.it/: InvalidURL: Failed to parse: Host 'www.ic frignano.it' contains invalid character ' '",
+    "https://www.ddtrentoladucenta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ddtrentoladucenta.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.ic2avezzanasmcv.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2avezzanasmcv.edu.it', port=443): Max retries exceeded with url: / (",
+    "https://www.ic2avezzanasmcv.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic2avezzanasmcv.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.ddtrentoladucenta.pec.it/: ConnectionError: HTTPSConnectionPool(host='www.ddtrentoladucenta.pec.it', port=443): Max retries exceeded with url: /",
+    "https://www.icaldomorosanfeliceacancello.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icaldomorosanfeliceacancello.edu.it', port=443): Max retries exceeded ",
+    "https://www.foscoloteano.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
