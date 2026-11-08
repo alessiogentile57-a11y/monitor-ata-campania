@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-08T18:13:18.595083+01:00",
+  "data_ora": "2026-11-08T19:08:48.796344+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,22 +16,23 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 37,
-  "errori_siti": 6,
-  "scuole_cursor": 486,
+  "scuole_lette": 10,
+  "pagine_lette": 34,
+  "errori_siti": 7,
+  "scuole_cursor": 498,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 20,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.confalonierinapoli.t/: ConnectionError: HTTPSConnectionPool(host='www.confalonierinapoli.t', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.confalonierinapoli.it/: ConnectionError: HTTPSConnectionPool(host='www.confalonierinapoli.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.comprensivoleopardi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.comprensivoleopardi.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.confalonierinapoli.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.convittonapoli.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.comprensivoterzoceschelli.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.daostascura.it/: ConnectionError: HTTPSConnectionPool(host='www.daostascura.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.cpianapolicitta1.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cpianapolicitta1.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.dommilanicapasso.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.dommilanicapasso.edu.it', port=443): Max retries exceeded with url: / ",
+    "https://www.donmilaninapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.donmilaninapoli.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.cpianapolicitta2.it/: SSLError: HTTPSConnectionPool(host='www.cpianapolicitta2.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.donmilani.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.direzionedidatticaquarto2.it/: ConnectTimeout: HTTPSConnectionPool(host='www.direzionedidatticaquarto2.it', port=443): Max retries exceeded with ur"
   ]
 }
