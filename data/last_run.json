@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-08T07:25:34.110841+01:00",
+  "data_ora": "2026-11-08T08:39:37.511737+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,22 +16,23 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 39,
-  "errori_siti": 6,
-  "scuole_cursor": 366,
+  "scuole_lette": 10,
+  "pagine_lette": 36,
+  "errori_siti": 7,
+  "scuole_cursor": 378,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.itisfalco.it/: ConnectionError: HTTPSConnectionPool(host='www.itisfalco.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.liceodongnocchi.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.liceofermiaversa.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.liceocirillo.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.liceofedericoquercia.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.itfederico2.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.maceratacampania.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.maceratacampania.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.mazzocchiscuola.it/: ConnectionError: HTTPSConnectionPool(host='www.mazzocchiscuola.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.matteiaversa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.matteiaversa.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.liceosianiaversa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceosianiaversa.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.primocircolosettembrini.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircolosettembrini.it', port=443): Max retries exceeded with url:",
+    "https://www.mignanomarzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.mignanomarzano.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.matteicaserta.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
