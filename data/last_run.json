@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-08T19:08:48.796344+01:00",
+  "data_ora": "2026-11-08T20:21:47.016750+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,23 +16,24 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 34,
-  "errori_siti": 7,
-  "scuole_cursor": 498,
+  "scuole_lette": 9,
+  "pagine_lette": 33,
+  "errori_siti": 8,
+  "scuole_cursor": 510,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 20,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.daostascura.it/: ConnectionError: HTTPSConnectionPool(host='www.daostascura.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.cpianapolicitta1.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cpianapolicitta1.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.dommilanicapasso.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.dommilanicapasso.edu.it', port=443): Max retries exceeded with url: / ",
-    "https://www.donmilaninapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.donmilaninapoli.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.cpianapolicitta2.it/: SSLError: HTTPSConnectionPool(host='www.cpianapolicitta2.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.donmilani.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.direzionedidatticaquarto2.it/: ConnectTimeout: HTTPSConnectionPool(host='www.direzionedidatticaquarto2.it', port=443): Max retries exceeded with ur"
+    "https://www.ferrajolosiani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ferrajolosiani.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.giordanobrunonola.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.giordanobrunonola.edu.it', port=443): Max retries exceeded with url: /",
+    "https://www.ferrajolosiani.gov.itistruzione.it/: ConnectionError: HTTPSConnectionPool(host='www.ferrajolosiani.gov.itistruzione.it', port=443): Max retries exceeded w",
+    "https://www.favagioia.gov.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.favagioia.gov.edu.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.dovidionicolardieamario.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.dovidionicolardieamario.edu.it', port=443): Max retries exceeded with ",
+    "https://www.galileicardito.it/: ConnectionError: HTTPSConnectionPool(host='www.galileicardito.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.giordanobrunonola.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.giordanobrunonola.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.giudtinofortunatonapoli.it/: ConnectionError: HTTPSConnectionPool(host='www.giudtinofortunatonapoli.it', port=443): Max retries exceeded with url:"
   ]
 }
