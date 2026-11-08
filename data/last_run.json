@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-08T00:11:44.824610+01:00",
+  "data_ora": "2026-11-08T01:09:34.385027+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,20 +17,20 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 12,
-  "pagine_lette": 49,
+  "pagine_lette": 42,
   "errori_siti": 5,
-  "scuole_cursor": 294,
+  "scuole_cursor": 306,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 20,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icmignanomarzano.gov. it/: InvalidURL: Failed to parse: Host 'www.icmignanomarzano.gov. it' contains invalid character ' '",
-    "https://www.icparenteaversa.it/: ConnectionError: HTTPSConnectionPool(host='www.icparenteaversa.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.icmoromarcianise.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmoromarcianise.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.icmignanomarzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmignanomarzano.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.icpignatarocamigliano.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.icsantamariavico.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsantamariavico.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.icruggieroterzocircolo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icruggieroterzocircolo.gov.it', port=443): Max retries exceeded with u",
+    "https://www.icsleonardodavinci.it/: ConnectionError: HTTPSConnectionPool(host='www.icsleonardodavinci.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.icscastelvolturnocentro.it/: ConnectTimeout: HTTPSConnectionPool(host='www.icscastelvolturnocentro.it', port=443): Max retries exceeded with url:",
+    "https://www.icsanleone.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
