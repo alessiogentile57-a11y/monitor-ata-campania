@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-09T13:33:39.501816+01:00",
+  "data_ora": "2026-11-09T14:51:06.353385+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,22 +16,23 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 42,
-  "errori_siti": 6,
-  "scuole_cursor": 666,
+  "scuole_lette": 10,
+  "pagine_lette": 40,
+  "errori_siti": 7,
+  "scuole_cursor": 678,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icmauriello.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmauriello.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.icmbeneventano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmbeneventano.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.icmilanialiperti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmilanialiperti.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.icmbeneventano.it/: SSLError: HTTPSConnectionPool(host='www.icmbeneventano.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.icmauromitilini.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.icmennella.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.icnevio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icnevio.gov.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.icninocortese.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icninocortese.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.icmoscatimaglione.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icmoscatimaglione.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.icnicolini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icnicolini.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icorianiguarino.it/: ConnectionError: HTTPSConnectionPool(host='www.icorianiguarino.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.icpadrearturodonofrio.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icpadrearturodonofrio.edu.it', port=443): Max retries exceeded with ur",
+    "https://www.icnevio.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
