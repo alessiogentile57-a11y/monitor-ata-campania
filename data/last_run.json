@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-09T02:49:45.372943+01:00",
+  "data_ora": "2026-11-09T04:26:46.368711+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 38,
-  "errori_siti": 6,
-  "scuole_cursor": 582,
+  "scuole_lette": 10,
+  "pagine_lette": 40,
+  "errori_siti": 7,
+  "scuole_cursor": 594,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,12 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.ic7pergolesi2.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic7pergolesi2.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.ic8oriani-diaz.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic8oriani-diaz.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.ic83porchianobordiga.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic83porchianobordiga.gov.it', port=443): Max retries exceeded with url",
-    "https://www.ic9cuocoschipa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ic9cuocoschipa.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.icaldomoronapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icaldomoronapoli.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.icamanzioranuccialfieri.it/: ConnectionError: HTTPSConnectionPool(host='www.icamanzioranuccialfieri.it', port=443): Max retries exceeded with url:"
+    "https://www.icasanrocco.it/: ConnectionError: HTTPSConnectionPool(host='www.icasanrocco.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.icbuonocorefiengameta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icbuonocorefiengameta.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.icbracconapoli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icbracconapoli.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.icarzano1ariosto.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icarzano1ariosto.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.iccarducciking.it/: ConnectionError: HTTPSConnectionPool(host='www.iccarducciking.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.iccapoluogosangennaro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccapoluogosangennaro.gov.it', port=443): Max retries exceeded with ur",
+    "https://www.icbracconapoli.it/: SSLError: HTTPSConnectionPool(host='www.icbracconapoli.it', port=443): Max retries exceeded with url: / (Cause"
   ]
 }
