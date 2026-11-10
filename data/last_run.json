@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T05:28:57.076498+01:00",
+  "data_ora": "2026-11-10T06:29:47.748132+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 34,
-  "errori_siti": 8,
-  "scuole_cursor": 810,
+  "scuole_lette": 11,
+  "pagine_lette": 43,
+  "errori_siti": 6,
+  "scuole_cursor": 822,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,11 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.isdellaporta-porzio -colosimo.edu.it/: InvalidURL: Failed to parse: Host 'www.isdellaporta-porzio -colosimo.edu.it' contains invalid character ' '",
-    "https://www.isdellaporta-porzio- colosimo.edu.it/: InvalidURL: Failed to parse: Host 'www.isdellaporta-porzio- colosimo.edu.it' contains invalid character ' '",
-    "https://www.isdegni.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isdegni.gov.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.isiscaruso.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isiscaruso.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.isdellaporta-porzio-colosimo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.isdellaporta-porzio-colosimo.edu.it', port=443): Max retries exceeded ",
-    "https://www.isiscasalnuovo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isiscasalnuovo.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.isferdinandogaliani.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.isdegni.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.isismelissabassi.it/: ConnectionError: HTTPSConnectionPool(host='www.isismelissabassi.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.isisleonardodavincipoggiomarino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisleonardodavincipoggiomarino.gov.it', port=443): Max retries exceed",
+    "https://www.isisrosariolivatino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisrosariolivatino.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.isisdemedici.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.isisleonardodavincipoggiomarino.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.isisfilangieri.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
