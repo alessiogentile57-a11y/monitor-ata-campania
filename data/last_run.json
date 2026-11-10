@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T23:18:32.986330+01:00",
+  "data_ora": "2026-11-11T00:14:12.936372+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,23 +17,23 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 9,
-  "pagine_lette": 32,
+  "pagine_lette": 37,
   "errori_siti": 8,
-  "scuole_cursor": 1002,
+  "scuole_cursor": 1014,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.plinioseniore.com/: ConnectionError: HTTPSConnectionPool(host='www.plinioseniore.com', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.palizzicasoria.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.palizzicasoria.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.nittiportici.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.nittiportici.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.nobeltorredelgreco.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.nobeltorredelgreco.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.nonocircolocuocona.it/: ConnectionError: HTTPSConnectionPool(host='www.nonocircolocuocona.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.novarocavour.it/: SSLError: HTTPSConnectionPool(host='www.novarocavour.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.polotecnicofermigadda.it/: SSLError: HTTPSConnectionPool(host='www.polotecnicofermigadda.it', port=443): Max retries exceeded with url: /",
-    "https://www.nittiportici.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.pompeisecondocircolo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.pompeisecondocircolo.gov.it', port=443): Max retries exceeded with url",
+    "https://www.primocircolocardito.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircolocardito.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.primocircoloacerra.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircoloacerra.gov.it', port=443): Max retries exceeded with url: ",
+    "https://www.primocircoloqualiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.primocircoloqualiano.gov.it', port=443): Max retries exceeded with url",
+    "https://www.primoicsantanastasia.it/: ConnectionError: HTTPSConnectionPool(host='www.primoicsantanastasia.it', port=443): Max retries exceeded with url: / ",
+    "https://www.primoludovicodacasoria.it/: ConnectionError: HTTPSConnectionPool(host='www.primoludovicodacasoria.it', port=443): Max retries exceeded with url: ",
+    "https://www.primocircolosangiuseppevesuviano.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.primocircolocardito.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
