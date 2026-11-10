@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T06:29:47.748132+01:00",
+  "data_ora": "2026-11-10T07:30:57.239949+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 43,
-  "errori_siti": 6,
-  "scuole_cursor": 822,
+  "scuole_lette": 12,
+  "pagine_lette": 42,
+  "errori_siti": 5,
+  "scuole_cursor": 834,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,10 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.isismelissabassi.it/: ConnectionError: HTTPSConnectionPool(host='www.isismelissabassi.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.isisleonardodavincipoggiomarino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisleonardodavincipoggiomarino.gov.it', port=443): Max retries exceed",
-    "https://www.isisrosariolivatino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisrosariolivatino.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.isisdemedici.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.isisleonardodavincipoggiomarino.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.isisfilangieri.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.ismajorana.it/: ConnectionError: HTTPSConnectionPool(host='www.ismajorana.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://www.isistassinari.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isistassinari.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.isisserra.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisserra.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.ismennellaischia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ismennellaischia.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.isisstrianoterzigno.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.isisstrianoterzigno.edu.it', port=443): Max retries exceeded with url:"
   ]
 }
