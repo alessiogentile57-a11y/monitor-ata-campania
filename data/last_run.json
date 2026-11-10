@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T02:42:19.386551+01:00",
+  "data_ora": "2026-11-10T04:24:36.279187+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,9 +17,9 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 9,
-  "pagine_lette": 32,
+  "pagine_lette": 34,
   "errori_siti": 8,
-  "scuole_cursor": 786,
+  "scuole_cursor": 798,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.ipsseoa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsseoa.gov.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.ipseoapetronio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipseoapetronio.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.ipssarrossini.it/: ConnectionError: HTTPSConnectionPool(host='www.ipssarrossini.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.ipiaferrari.it/: ConnectionError: HTTPSConnectionPool(host='www.ipiaferrari.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.ipseoaducadibuonvicino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipseoaducadibuonvicino.gov.it', port=443): Max retries exceeded with u",
-    "https://www.ipsseoa.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsseoa.edu.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.ipsteleseischia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsteleseischia.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.ipsseoferraioli.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsseoferraioli.it', port=443): Max retries exceeded with url: / (Caus"
+    "https://www.iscaravaggio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iscaravaggio.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.isabelladetecaracciolo.it/: ConnectionError: HTTPSConnectionPool(host='www.isabelladetecaracciolo.it', port=443): Max retries exceeded with url: ",
+    "https://www.ischianonsoloscuola.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ischianonsoloscuola.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.iscscudillosalvemini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iscscudillosalvemini.gov.it', port=443): Max retries exceeded with url",
+    "https://www.isamunariacerra.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isamunariacerra.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.isabelladeste.it/: SSLError: HTTPSConnectionPool(host='www.isabelladeste.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.isabelladestecaracciolo.it/: SSLError: HTTPSConnectionPool(host='www.isabelladestecaracciolo.it', port=443): Max retries exceeded with url:",
+    "https://www.iscolombo.it/: SSLError: HTTPSConnectionPool(host='www.iscolombo.it', port=443): Max retries exceeded with url: / (Caused by "
   ]
 }
