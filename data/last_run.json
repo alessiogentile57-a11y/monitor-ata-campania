@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T01:11:18.862369+01:00",
+  "data_ora": "2026-11-10T02:42:19.386551+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 11,
-  "pagine_lette": 39,
-  "errori_siti": 6,
-  "scuole_cursor": 774,
+  "scuole_lette": 9,
+  "pagine_lette": 32,
+  "errori_siti": 8,
+  "scuole_cursor": 786,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,11 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iissspantaleo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iissspantaleo.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.iissiani.gov.it./: ConnectionError: HTTPSConnectionPool(host='www.iissiani.gov.it.', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.iitsdallachiesa.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.iitsdallachiesa.edu.it', port=443): Max retries exceeded with url: / (",
-    "https://www.iisvittorioemanuele.it/: SSLError: HTTPSConnectionPool(host='www.iisvittorioemanuele.it', port=443): Max retries exceeded with url: / (",
-    "https://www.iisminzoni.it/: ConnectTimeout: HTTPSConnectionPool(host='www.iisminzoni.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.iissiani.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.ipsseoa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsseoa.gov.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.ipseoapetronio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipseoapetronio.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.ipssarrossini.it/: ConnectionError: HTTPSConnectionPool(host='www.ipssarrossini.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.ipiaferrari.it/: ConnectionError: HTTPSConnectionPool(host='www.ipiaferrari.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.ipseoaducadibuonvicino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipseoaducadibuonvicino.gov.it', port=443): Max retries exceeded with u",
+    "https://www.ipsseoa.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsseoa.edu.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.ipsteleseischia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsteleseischia.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.ipsseoferraioli.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsseoferraioli.it', port=443): Max retries exceeded with url: / (Caus"
   ]
 }
