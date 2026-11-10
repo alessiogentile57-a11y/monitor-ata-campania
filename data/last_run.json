@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T12:27:05.242387+01:00",
+  "data_ora": "2026-11-10T13:27:40.300241+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 8,
-  "pagine_lette": 31,
-  "errori_siti": 9,
-  "scuole_cursor": 882,
+  "scuole_lette": 7,
+  "pagine_lette": 28,
+  "errori_siti": 10,
+  "scuole_cursor": 894,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,14 +27,15 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.istitutomastriani.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutomastriani.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.istitutopacioli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopacioli.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.istitutopavese.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopavese.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.istitutopavese.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopavese.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.istitutopavesenazareth.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopavesenazareth.gov.it', port=443): Max retries exceeded with u",
-    "https://www.istitutomastriani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutomastriani.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.istitutopacinotti.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.istitutomastriani.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.istitutopavesenazareth.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.istitutostatalepitagora.it www.istitutostatalepitagora.edu.it/: InvalidURL: Failed to parse: Host 'www.istitutostatalepitagora.it www.istitutostatalepitagora.edu.it' contains i",
+    "https://www.istitutorossini.jimdo.com/: SSLError: HTTPSConnectionPool(host='www.istitutorossini.jimdo.com', port=443): Max retries exceeded with url: ",
+    "https://www.istitutovitruvio.govit/: ConnectionError: HTTPSConnectionPool(host='www.istitutovitruvio.govit', port=443): Max retries exceeded with url: / (",
+    "https://www.istitutosuperioreischia.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutosuperioreischia.it', port=443): Max retries exceeded with url:",
+    "https://www.istpolisaviano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istpolisaviano.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.istitutotilgher.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutotilgher.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.istpolisaviano.it/: ConnectionError: HTTPSConnectionPool(host='www.istpolisaviano.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.istitutostatalepitagora.it/: SSLError: HTTPSConnectionPool(host='www.istitutostatalepitagora.it', port=443): Max retries exceeded with url:",
+    "https://www.istitutosuperioregentileschi.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.istitutopertiniafragola.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
