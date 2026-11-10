@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T11:31:03.572361+01:00",
+  "data_ora": "2026-11-10T12:27:05.242387+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 30,
-  "errori_siti": 8,
-  "scuole_cursor": 870,
+  "scuole_lette": 8,
+  "pagine_lette": 31,
+  "errori_siti": 9,
+  "scuole_cursor": 882,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,14 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.istitutocomprensivosestocircologiugliano.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivosestocircologiugliano.it', port=443): Max retries e",
-    "https://www.istitutocomprensivoromeo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivoromeo.gov.it', port=443): Max retries exceeded with",
-    "https://www.istitutocomprensivotrecase.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivotrecase.gov.it', port=443): Max retries exceeded wi",
-    "https://www.istitutoenriques.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutoenriques.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.istitutodefilippo.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutodefilippo.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.istitutodavinostriano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutodavinostriano.gov.it', port=443): Max retries exceeded with ur",
-    "https://www.istitutofalcone.eu/: ConnectionError: HTTPSConnectionPool(host='www.istitutofalcone.eu', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.istitutograziani.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutograziani.edu.it', port=443): Max retries exceeded with url: / "
+    "https://www.istitutomastriani.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutomastriani.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.istitutopacioli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopacioli.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://www.istitutopavese.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopavese.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.istitutopavese.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopavese.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.istitutopavesenazareth.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopavesenazareth.gov.it', port=443): Max retries exceeded with u",
+    "https://www.istitutomastriani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutomastriani.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.istitutopacinotti.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.istitutomastriani.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.istitutopavesenazareth.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
