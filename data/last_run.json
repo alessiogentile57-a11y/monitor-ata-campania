@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T13:27:40.300241+01:00",
+  "data_ora": "2026-11-10T14:44:06.560492+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -19,7 +19,7 @@
   "scuole_lette": 7,
   "pagine_lette": 28,
   "errori_siti": 10,
-  "scuole_cursor": 894,
+  "scuole_cursor": 906,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,15 +27,15 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.istitutostatalepitagora.it www.istitutostatalepitagora.edu.it/: InvalidURL: Failed to parse: Host 'www.istitutostatalepitagora.it www.istitutostatalepitagora.edu.it' contains i",
-    "https://www.istitutorossini.jimdo.com/: SSLError: HTTPSConnectionPool(host='www.istitutorossini.jimdo.com', port=443): Max retries exceeded with url: ",
-    "https://www.istitutovitruvio.govit/: ConnectionError: HTTPSConnectionPool(host='www.istitutovitruvio.govit', port=443): Max retries exceeded with url: / (",
-    "https://www.istitutosuperioreischia.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutosuperioreischia.it', port=443): Max retries exceeded with url:",
-    "https://www.istpolisaviano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istpolisaviano.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.istitutotilgher.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutotilgher.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.istpolisaviano.it/: ConnectionError: HTTPSConnectionPool(host='www.istpolisaviano.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.istitutostatalepitagora.it/: SSLError: HTTPSConnectionPool(host='www.istitutostatalepitagora.it', port=443): Max retries exceeded with url:",
-    "https://www.istitutosuperioregentileschi.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.istitutopertiniafragola.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.itcsgfilangieri.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.itcsgfilangieri.edu.it', port=443): Max retries exceeded with url: / (",
+    "https://www.itcgmattei.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.itcgmattei.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.isusanpaolo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isusanpaolo.gov.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.itcluigisturzo.it/: ConnectionError: HTTPSConnectionPool(host='www.itcluigisturzo.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.itccaruso.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.itccaruso.edu.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.isusanpaolo.it/: SSLError: HTTPSConnectionPool(host='www.isusanpaolo.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.istruzione.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.itctorrente.it/: SSLError: HTTPSConnectionPool(host='www.itctorrente.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.itgdellaporta-porzio.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.itibarsanti.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
