@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-10T21:25:00.503146+01:00",
+  "data_ora": "2026-11-10T22:20:31.470451+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 13,
-  "pagine_lette": 44,
-  "errori_siti": 4,
-  "scuole_cursor": 978,
+  "scuole_lette": 14,
+  "pagine_lette": 56,
+  "errori_siti": 3,
+  "scuole_cursor": 990,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 10,
@@ -27,9 +27,8 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.liceosegre.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceosegre.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.liceovirgiliometa.it/: SSLError: HTTPSConnectionPool(host='www.liceovirgiliometa.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.liceosenecabacoli.it/: SSLError: HTTPSConnectionPool(host='www.liceosenecabacoli.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.liceoscientificogiordanobruno.it/: ReadTimeout: HTTPSConnectionPool(host='www.liceoscientificogiordanobruno.it', port=443): Read timed out. (read ti"
+    "https://www.michelangeloaugusto.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.michelangeloaugusto.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.ninobixio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ninobixio.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.michelangeloaugusto.it/: SSLError: HTTPSConnectionPool(host='www.michelangeloaugusto.it', port=443): Max retries exceeded with url: / ("
   ]
 }
