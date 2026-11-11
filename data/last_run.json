@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-11T19:27:31.283010+01:00",
+  "data_ora": "2026-11-11T20:37:55.131756+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,9 +17,9 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 9,
-  "pagine_lette": 39,
+  "pagine_lette": 31,
   "errori_siti": 8,
-  "scuole_cursor": 1206,
+  "scuole_cursor": 1218,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,13 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iistegeggiano.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.iistegeggiano.edu.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.iissapri.it/: ConnectionError: HTTPSConnectionPool(host='www.iissapri.it', port=443): Max retries exceeded with url: / (Caused by N",
-    "https://www.iispiranesi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iispiranesi.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.iisperitolevi.it/: ConnectionError: HTTPSConnectionPool(host='www.iisperitolevi.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.iispisacanesapri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iispisacanesapri.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.iisteggiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisteggiano.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.iisvicodevivo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisvicodevivo.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.ipsarvirtuoso.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsarvirtuoso.it', port=443): Max retries exceeded with url: / (Caused"
+    "https://www.ipsiaferrari.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsiaferrari.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.istituto don milani-linguiti.edu.it/: InvalidURL: Failed to parse: Host 'www.istituto don milani-linguiti.edu.it' contains invalid character ' '",
+    "https://www.isisfotunato-angri.it/: ConnectionError: HTTPSConnectionPool(host='www.isisfotunato-angri.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.iscanciprianopicentino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iscanciprianopicentino.gov.it', port=443): Max retries exceeded with u",
+    "https://www.istititutosuperioredomenicorea.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istititutosuperioredomenicorea.edu.it', port=443): Max retries exceede",
+    "https://www.istitutoanardi.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutoanardi.edu.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.isiscorbino.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.isisvirgilio.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
