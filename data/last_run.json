@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-11T05:33:35.419203+01:00",
+  "data_ora": "2026-11-11T06:33:22.654974+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 6,
-  "pagine_lette": 29,
-  "errori_siti": 11,
-  "scuole_cursor": 1062,
+  "scuole_lette": 5,
+  "pagine_lette": 23,
+  "errori_siti": 12,
+  "scuole_cursor": 1074,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,16 +27,17 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.xxcircolonapoli.com/: ConnectionError: HTTPSConnectionPool(host='www.xxcircolonapoli.com', port=443): Max retries exceeded with url: / (Cau",
-    "https://wwwic2panzinicastellammare.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzinicastellammare.gov.it', port=443): Max retries exceeded with u",
-    "https://wwwic1cangemiboscoreale.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwic1cangemiboscoreale.gov.it', port=443): Max retries exceeded with url:",
-    "https://wwwic2panzini.castellammare.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzini.castellammare.edu.it', port=443): Max retries exceeded with ",
-    "https://wwwicmassimotroisisangiorgioacremano.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwicmassimotroisisangiorgioacremano.edu.it', port=443): Max retries excee",
-    "https://wwwic2panzinicastellammare.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzinicastellammare.edu.it', port=443): Max retries exceeded with u",
-    "https://wwwatellanofrattaminore.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwatellanofrattaminore.edu.it', port=443): Max retries exceeded with url:",
-    "https://wwwitismarconi.it/: ConnectionError: HTTPSConnectionPool(host='wwwitismarconi.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://wwwicdenicolasasso.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwicdenicolasasso.gov.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.vittoriovenetonapoli.it/: SSLError: HTTPSConnectionPool(host='www.vittoriovenetonapoli.it', port=443): Max retries exceeded with url: / ",
-    "https://www.vivianinapoli.it/: SSLError: HTTPSConnectionPool(host='www.vivianinapoli.it', port=443): Max retries exceeded with url: / (Caused"
+    "https://iisassteas.gov.it/: ConnectionError: HTTPSConnectionPool(host='iisassteas.gov.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://icpadula.it/: ConnectionError: HTTPSConnectionPool(host='icpadula.it', port=443): Max retries exceeded with url: / (Caused by NameR",
+    "https://iccampagnacapoluogo.gov.it/: ConnectionError: HTTPSConnectionPool(host='iccampagnacapoluogo.gov.it', port=443): Max retries exceeded with url: / (",
+    "https://isisgiovanni23.gov.it/: ConnectionError: HTTPSConnectionPool(host='isisgiovanni23.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://circolodidatticobaronissi.gov.it/: ConnectionError: HTTPSConnectionPool(host='circolodidatticobaronissi.gov.it', port=443): Max retries exceeded with ur",
+    "https://ddmontesanosm.it/: ConnectionError: HTTPSConnectionPool(host='ddmontesanosm.it', port=443): Max retries exceeded with url: / (Caused by ",
+    "https://icsmontesanosm.it/: ConnectionError: HTTPSConnectionPool(host='icsmontesanosm.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://istitutocomprensivopellezzano.edu.it/: ConnectionError: HTTPSConnectionPool(host='istitutocomprensivopellezzano.edu.it', port=443): Max retries exceeded wit",
+    "https://httpiccamera.edu.it/: ConnectionError: HTTPSConnectionPool(host='httpiccamera.edu.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://httpswww.icsmontesanosm.edu.it/: SSLError: HTTPSConnectionPool(host='httpswww.icsmontesanosm.edu.it', port=443): Max retries exceeded with url:",
+    "https://icgiacintoromanoeboli.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://marinigioia.edu.it/: ConnectTimeout: HTTPSConnectionPool(host='marinigioia.edu.it', port=443): Max retries exceeded with url: / (Caused b"
   ]
 }
