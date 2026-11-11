@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-11T16:23:15.687034+01:00",
+  "data_ora": "2026-11-11T17:30:03.976877+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,24 +16,22 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 34,
-  "errori_siti": 8,
-  "scuole_cursor": 1170,
+  "scuole_lette": 11,
+  "pagine_lette": 39,
+  "errori_siti": 6,
+  "scuole_cursor": 1182,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 9,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icsanmarzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsanmarzano.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.icsantacroce.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsantacroce.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.icsassano.org/: ConnectionError: HTTPSConnectionPool(host='www.icsassano.org', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.icsanvalentinotorio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsanvalentinotorio.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.icsantalfonso.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsantalfonso.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.icsantalfonsopagani.it/: HTTPError: 503 Server Error: Service Unavailable for url: https://www.icsantalfonsopagani.it/",
-    "https://www.icsassano.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.icsarnoepiscopio.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.icteggiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icteggiano.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icsporzio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsporzio.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.icsmaldone.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsmaldone.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icteodorogaza.it/: ConnectionError: HTTPSConnectionPool(host='www.icteodorogaza.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.ictramonti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ictramonti.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.icsenatoremdu.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
