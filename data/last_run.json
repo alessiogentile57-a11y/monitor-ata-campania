@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-11T02:43:06.638221+01:00",
+  "data_ora": "2026-11-11T04:28:29.394178+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,23 +16,21 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 40,
-  "errori_siti": 7,
-  "scuole_cursor": 1038,
+  "scuole_lette": 12,
+  "pagine_lette": 47,
+  "errori_siti": 5,
+  "scuole_cursor": 1050,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.scuolamaiuripompei.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolamaiuripompei.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.scuolarenatofucini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolarenatofucini.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.scuolafoscoloberdan.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolafoscoloberdan.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.scuolafoscoloberdan.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolafoscoloberdan.edu.it', port=443): Max retries exceeded with url:",
-    "https://www.scuolapacinotti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolapacinotti.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.scuolavanvitelli36.it/: SSLError: HTTPSConnectionPool(host='www.scuolavanvitelli36.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.scuolamaiuripompei.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.silioitalico.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.silioitalico.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.secondocircolopoggiomarino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.secondocircolopoggiomarino.gov.it', port=443): Max retries exceeded wi",
+    "https://www.secondocircoloacerra.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.secondocircoloacerra.gov.it', port=443): Max retries exceeded with url",
+    "https://www.sommadue.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.sommadue.gov.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.secondocircolovillaricca.it/: SSLError: HTTPSConnectionPool(host='www.secondocircolovillaricca.it', port=443): Max retries exceeded with url"
   ]
 }
