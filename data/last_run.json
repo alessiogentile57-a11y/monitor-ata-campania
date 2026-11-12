@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-12T00:28:13.374261+01:00",
+  "data_ora": "2026-11-12T01:27:33.111433+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,24 +16,21 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 29,
-  "errori_siti": 8,
-  "scuole_cursor": 1254,
+  "scuole_lette": 12,
+  "pagine_lette": 44,
+  "errori_siti": 5,
+  "scuole_cursor": 1266,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 10,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.itcgcenni.net/: ConnectionError: HTTPSConnectionPool(host='www.itcgcenni.net', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.istitutoistruzionesuperioreparmenide.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutoistruzionesuperioreparmenide.gov.it', port=443): Max retries e",
-    "https://www.istitutolinguiti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutolinguiti.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.istitutovirgilioeboli.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutovirgilioeboli.gov.it', port=443): Max retries exceeded with ur",
-    "https://www.istitutopenna.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutopenna.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.itcsacco.eu/: ConnectionError: HTTPSConnectionPool(host='www.itcsacco.eu', port=443): Max retries exceeded with url: / (Caused by N",
-    "https://www.istitutoistruzionesuperioreparmenide.edu.it/: SSLError: HTTPSConnectionPool(host='www.istitutoistruzionesuperioreparmenide.edu.it', port=443): Max retries e",
-    "https://www.itimarconinocera.org/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.itisfermisarno.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.itisfermisarno.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.liceoalbertogalizia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceoalbertogalizia.gov.it', port=443): Max retries exceeded with url:",
+    "https://www.liceomangino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceomangino.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.liceogatto.it/: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "https://www.liceoartisticosabatinimenna.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
