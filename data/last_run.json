@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-12T06:36:57.026022+01:00",
+  "data_ora": "2026-11-12T07:40:00.552502+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 6,
-  "pagine_lette": 26,
-  "errori_siti": 11,
-  "scuole_cursor": 0,
+  "scuole_lette": 7,
+  "pagine_lette": 29,
+  "errori_siti": 10,
+  "scuole_cursor": 12,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,16 +27,15 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.scuoletorreorsaia.org/: ConnectionError: HTTPSConnectionPool(host='www.scuoletorreorsaia.org', port=443): Max retries exceeded with url: / (C",
-    "https://www.terzocircoloscafati.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.terzocircoloscafati.gov.it', port=443): Max retries exceeded with url:",
-    "https://wwwiccapacciocapoluogo.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwiccapacciocapoluogo.edu.it', port=443): Max retries exceeded with url: ",
-    "https://wwwistitutocomprensivocastelsanlorenzo.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwistitutocomprensivocastelsanlorenzo.gov.it', port=443): Max retries exc",
-    "https://www.terzoistitutocomprensivonocerainferiore.it/: ConnectionError: HTTPSConnectionPool(host='www.terzoistitutocomprensivonocerainferiore.it', port=443): Max retries ex",
-    "https://www.sedondocircoloangri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.sedondocircoloangri.gov.it', port=443): Max retries exceeded with url:",
-    "https://wwwistitutocomprensivopellezzano.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwistitutocomprensivopellezzano.gov.it', port=443): Max retries exceeded ",
-    "https://wwwiccapacciocapoluogo.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwiccapacciocapoluogo.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.teresaconfalonieri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.teresaconfalonieri.gov.it', port=443): Max retries exceeded with url: ",
-    "https://wwww.icmoscati.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwww.icmoscati.edu.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.terzocircoloscafati.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://icbenedettocroce.eu.it/: ConnectionError: HTTPSConnectionPool(host='icbenedettocroce.eu.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://icstommaso.it/: ConnectionError: HTTPSConnectionPool(host='icstommaso.it', port=443): Max retries exceeded with url: / (Caused by Nam",
+    "https://icpascolirotondi.gov.it/: ConnectionError: HTTPSConnectionPool(host='icpascolirotondi.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://icbenedettocroce.edu.it/: ConnectionError: HTTPSConnectionPool(host='icbenedettocroce.edu.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://icreginamargheritaleonardodavinci.it/: ConnectionError: HTTPSConnectionPool(host='icreginamargheritaleonardodavinci.it', port=443): Max retries exceeded wit",
+    "https://ic.nusco.it/: ConnectionError: HTTPSConnectionPool(host='ic.nusco.it', port=443): Max retries exceeded with url: / (Caused by NameR",
+    "https://istitutocomprensivocervinara.gov.it/: ConnectionError: HTTPSConnectionPool(host='istitutocomprensivocervinara.gov.it', port=443): Max retries exceeded with",
+    "https://istitutosuperiorefermi.it/: SSLError: HTTPSConnectionPool(host='istitutosuperiorefermi.it', port=443): Max retries exceeded with url: / (C",
+    "https://isissdeluca.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.agrariogeometra.edu.it/: ReadTimeout: HTTPSConnectionPool(host='www.agrariogeometra.edu.it', port=443): Read timed out. (read timeout=6)"
   ]
 }
