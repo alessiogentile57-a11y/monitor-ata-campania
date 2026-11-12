@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-12T18:32:59.413794+01:00",
+  "data_ora": "2026-11-12T19:26:51.048127+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,24 +17,24 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 8,
-  "pagine_lette": 31,
+  "pagine_lette": 34,
   "errori_siti": 9,
-  "scuole_cursor": 108,
+  "scuole_cursor": 120,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 20,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.istitutocompresivocalitri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocompresivocalitri.gov.it', port=443): Max retries exceeded wit",
-    "https://www.istitutomnicomprensivocervinara.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutomnicomprensivocervinara.edu.it', port=443): Max retries exceed",
-    "https://www.istitutocomprensivomanzoni.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivomanzoni.it', port=443): Max retries exceeded with u",
-    "https://www.istitutosuperioremaffucci.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutosuperioremaffucci.it', port=443): Max retries exceeded with ur",
-    "https://www.istitutosuperioreaeclanum.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutosuperioreaeclanum.it', port=443): Max retries exceeded with ur",
-    "https://www.istitutocomprensivomontorosuperiore.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivomontorosuperiore.gov.it', port=443): Max retries ex",
-    "https://www.istitutocomprensivomanzoni.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivomanzoni.gov.it', port=443): Max retries exceeded wi",
-    "https://www.istitutovanvitelli.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutovanvitelli.edu.it', port=443): Max retries exceeded with url: ",
-    "https://www.istitutocomprensivocervinara.it/: HTTPError: 526 Server Error: <none> for url: https://www.istitutocomprensivocervinara.it/"
+    "https://www.iteamabile.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iteamabile.gov.it', port=443): Max retries exceeded with url: / (Cause",
+    "https://www.itisguidodorso.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.itisguidodorso.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.leonardodavinciav.it/: ConnectionError: HTTPSConnectionPool(host='www.leonardodavinciav.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.scuolacocchia-scandone.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolacocchia-scandone.it', port=443): Max retries exceeded with url: ",
+    "https://www.scuolacocchia-dallachiesa.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolacocchia-dallachiesa.edu.it', port=443): Max retries exceeded wit",
+    "https://www.scuolamediacovotta.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolamediacovotta.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.superioredesanctis.it/: ConnectionError: HTTPSConnectionPool(host='www.superioredesanctis.it', port=443): Max retries exceeded with url: / (C",
+    "https://www.scuolacocchia-dallachiesa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolacocchia-dallachiesa.gov.it', port=443): Max retries exceeded wit",
+    "https://www.liceovirgiliomaroneavellino.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
