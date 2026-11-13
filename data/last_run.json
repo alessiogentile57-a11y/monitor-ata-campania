@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-13T17:29:46.634672+01:00",
+  "data_ora": "2026-11-13T18:28:28.797573+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,21 +16,23 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 12,
+  "scuole_lette": 10,
   "pagine_lette": 40,
-  "errori_siti": 5,
-  "scuole_cursor": 348,
+  "errori_siti": 7,
+  "scuole_cursor": 360,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.istitutocomprensivosuccivo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivosuccivo.gov.it', port=443): Max retries exceeded wi",
-    "https://www.istitutocomprensivofrignano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivofrignano.gov.it', port=443): Max retries exceeded w",
-    "https://www.istitutolener.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutolener.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.istitutocomprensivodd2bosco.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivodd2bosco.gov.it', port=443): Max retries exceeded w",
-    "https://www.istitutostroffolini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutostroffolini.gov.it', port=443): Max retries exceeded with url:"
+    "https://www.itcdefanchis.it/: ConnectionError: HTTPSConnectionPool(host='www.itcdefanchis.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.itisfalco.it/: ConnectionError: HTTPSConnectionPool(host='www.itisfalco.it', port=443): Max retries exceeded with url: / (Caused by ",
+    "https://www.istitutoterradilavoro.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutoterradilavoro.edu.it', port=443): Max retries exceeded with ur",
+    "https://www.itcgandreozziaversa.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.liceocirillo.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.liceodongnocchi.it/: ValueError: redirect fuori dalla fonte ufficiale",
+    "https://www.itfederico2.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
