@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-13T09:36:24.371276+01:00",
+  "data_ora": "2026-11-13T10:35:19.146793+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,24 +16,20 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 34,
-  "errori_siti": 8,
-  "scuole_cursor": 264,
+  "scuole_lette": 13,
+  "pagine_lette": 44,
+  "errori_siti": 4,
+  "scuole_cursor": 276,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iccalcara.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccalcara.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.icbasiledonmilani.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.icbasiledonmilani.edu.it', port=443): Max retries exceeded with url: /",
-    "https://www.icboscoporticodicaserta.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icboscoporticodicaserta.gov.it', port=443): Max retries exceeded with ",
-    "https://www.icbasiledonmilani.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icbasiledonmilani.gov.it', port=443): Max retries exceeded with url: /",
-    "https://www.iccalderisi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccalderisi.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.iccapolddsannicolalastrada.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccapolddsannicolalastrada.gov.it', port=443): Max retries exceeded wi",
-    "https://www.iccalcara.edu.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.icassolimene.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.iccastelvolturno.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iccastelvolturno.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.icdd2.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icdd2.gov.it', port=443): Max retries exceeded with url: / (Caused by ",
+    "https://www.icfrignano.it/: ConnectionError: HTTPSConnectionPool(host='www.icfrignano.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://www.iccapriatiavolturno.it/: HTTPError: 526 Server Error: <none> for url: https://www.iccapriatiavolturno.it/"
   ]
 }
