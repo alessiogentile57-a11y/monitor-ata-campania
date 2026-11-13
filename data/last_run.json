@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-13T21:29:04.145494+01:00",
+  "data_ora": "2026-11-13T22:25:13.845675+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 8,
-  "pagine_lette": 31,
-  "errori_siti": 9,
-  "scuole_cursor": 396,
+  "scuole_lette": 10,
+  "pagine_lette": 34,
+  "errori_siti": 7,
+  "scuole_cursor": 408,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,14 +27,12 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://wwwmaceratacampania.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwmaceratacampania.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.scuolarienzo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.scuolarienzo.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://wwwconvittonifo.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwconvittonifo.edu.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://wwwscuolarienzo.it/: ConnectionError: HTTPSConnectionPool(host='wwwscuolarienzo.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://wwww.iccapolddsannicolalastrada.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwww.iccapolddsannicolalastrada.gov.it', port=443): Max retries exceeded w",
-    "https://circolodidatticogrumonevano.gov.it/: ConnectionError: HTTPSConnectionPool(host='circolodidatticogrumonevano.gov.it', port=443): Max retries exceeded with ",
-    "https://ic.29-miragliasogliano/: ConnectionError: HTTPSConnectionPool(host='ic.29-miragliasogliano', port=443): Max retries exceeded with url: / (Caus",
-    "https://ic57bosco.gov.it/: ConnectionError: HTTPSConnectionPool(host='ic57bosco.gov.it', port=443): Max retries exceeded with url: / (Caused by ",
-    "https://www.scuolasantamariavico.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://icsdenicola.edu.it/: ConnectionError: HTTPSConnectionPool(host='icsdenicola.edu.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://isc88eduardodefilippo.gov.it/: ConnectionError: HTTPSConnectionPool(host='isc88eduardodefilippo.gov.it', port=443): Max retries exceeded with url: /",
+    "https://istitutocomprensivodecurtis.gov.it/: ConnectionError: HTTPSConnectionPool(host='istitutocomprensivodecurtis.gov.it', port=443): Max retries exceeded with ",
+    "https://ics.giampietroromano.edu.it/: ConnectionError: HTTPSConnectionPool(host='ics.giampietroromano.edu.it', port=443): Max retries exceeded with url: / ",
+    "https://itidavinci.it/: ConnectionError: HTTPSConnectionPool(host='itidavinci.it', port=443): Max retries exceeded with url: / (Caused by Nam",
+    "https://lnx.itnipiaducabruzzi.gov.it/: ConnectionError: HTTPSConnectionPool(host='lnx.itnipiaducabruzzi.gov.it', port=443): Max retries exceeded with url: /",
+    "https://istitutogemelli.edu.it/: ConnectTimeout: HTTPSConnectionPool(host='istitutogemelli.edu.it', port=443): Max retries exceeded with url: / (Caus"
   ]
 }
