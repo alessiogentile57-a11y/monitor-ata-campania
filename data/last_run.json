@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-13T16:22:45.989948+01:00",
+  "data_ora": "2026-11-13T17:29:46.634672+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 41,
-  "errori_siti": 8,
-  "scuole_cursor": 336,
+  "scuole_lette": 12,
+  "pagine_lette": 40,
+  "errori_siti": 5,
+  "scuole_cursor": 348,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,13 +27,10 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.isititutocomprensivofrignano.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.isititutocomprensivofrignano.edu.it', port=443): Max retries exceeded ",
-    "https://www.isisstaddeodasessa.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisstaddeodasessa.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.istitutocomprensivocasagiove.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivocasagiove.gov.it', port=443): Max retries exceeded ",
-    "https://www.istitutocomprensivocaiazzo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivocaiazzo.gov.it', port=443): Max retries exceeded wi",
-    "https://www.isisstaddeodasessa.it/: ConnectionError: HTTPSConnectionPool(host='www.isisstaddeodasessa.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.istitutocomprensivocaiazzo.it/: SSLError: HTTPSConnectionPool(host='www.istitutocomprensivocaiazzo.it', port=443): Max retries exceeded with u",
-    "https://www.isissmatese.it/: SSLError: HTTPSConnectionPool(host='www.isissmatese.it', port=443): Max retries exceeded with url: / (Caused b",
-    "https://www.isisvoltaaversa.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.istitutocomprensivosuccivo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivosuccivo.gov.it', port=443): Max retries exceeded wi",
+    "https://www.istitutocomprensivofrignano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivofrignano.gov.it', port=443): Max retries exceeded w",
+    "https://www.istitutolener.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutolener.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.istitutocomprensivodd2bosco.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutocomprensivodd2bosco.gov.it', port=443): Max retries exceeded w",
+    "https://www.istitutostroffolini.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.istitutostroffolini.gov.it', port=443): Max retries exceeded with url:"
   ]
 }
