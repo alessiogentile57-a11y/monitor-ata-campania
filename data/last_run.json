@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-17T09:40:13.726831+01:00",
+  "data_ora": "2026-11-17T11:36:08.256189+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,23 +16,24 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 10,
-  "pagine_lette": 39,
-  "errori_siti": 7,
-  "scuole_cursor": 1200,
+  "scuole_lette": 9,
+  "pagine_lette": 33,
+  "errori_siti": 8,
+  "scuole_cursor": 1212,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.iispiranesi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iispiranesi.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.iisbaronissi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisbaronissi.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.iisperitolevi.it/: ConnectionError: HTTPSConnectionPool(host='www.iisperitolevi.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.iisbestagloriosi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisbestagloriosi.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.iispisacanesapri.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iispisacanesapri.gov.it', port=443): Max retries exceeded with url: / ",
-    "https://www.iisgalilei.it/: ValueError: redirect fuori dalla fonte ufficiale",
-    "https://www.iisferraribattipaglia.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.iisteggiano.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisteggiano.gov.it', port=443): Max retries exceeded with url: / (Caus",
+    "https://www.iissapri.it/: ConnectionError: HTTPSConnectionPool(host='www.iissapri.it', port=443): Max retries exceeded with url: / (Caused by N",
+    "https://www.ipsiaferrari.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsiaferrari.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.iscanciprianopicentino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iscanciprianopicentino.gov.it', port=443): Max retries exceeded with u",
+    "https://www.iistegeggiano.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.iistegeggiano.edu.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.ipsarvirtuoso.it/: ConnectionError: HTTPSConnectionPool(host='www.ipsarvirtuoso.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.iisvicodevivo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisvicodevivo.gov.it', port=443): Max retries exceeded with url: / (Ca",
+    "https://www.isiscorbino.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
