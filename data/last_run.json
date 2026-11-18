@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-18T19:25:27.896693+01:00",
+  "data_ora": "2026-11-18T20:37:47.005829+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 12,
-  "pagine_lette": 43,
-  "errori_siti": 5,
-  "scuole_cursor": 186,
+  "scuole_lette": 14,
+  "pagine_lette": 47,
+  "errori_siti": 3,
+  "scuole_cursor": 198,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,10 +27,8 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.icsianisantangelo.it/: ConnectionError: HTTPSConnectionPool(host='www.icsianisantangelo.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.ictorrebn.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ictorrebn.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.icsfragnito.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsfragnito.gov.it', port=443): Max retries exceeded with url: / (Caus",
-    "https://www.icsantangeloasasso.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.icsantangeloasasso.gov.it', port=443): Max retries exceeded with url: ",
-    "https://www.iisalberti.it/: ConnectionError: HTTPSConnectionPool(host='www.iisalberti.it', port=443): Max retries exceeded with url: / (Caused by"
+    "https://www.iisgalileivetrone.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisgalileivetrone.gov.it', port=443): Max retries exceeded with url: /",
+    "https://www.iisfaicchio-castelvenere.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.iisfaicchio-castelvenere.gov.it', port=443): Max retries exceeded with",
+    "https://www.ittfaicchio.it/: ConnectionError: HTTPSConnectionPool(host='www.ittfaicchio.it', port=443): Max retries exceeded with url: / (Caused b"
   ]
 }
