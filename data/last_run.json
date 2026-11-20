@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-20T00:22:15.396993+01:00",
+  "data_ora": "2026-11-20T01:22:03.809011+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,24 +16,23 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 30,
-  "errori_siti": 8,
-  "scuole_cursor": 450,
+  "scuole_lette": 10,
+  "pagine_lette": 37,
+  "errori_siti": 7,
+  "scuole_cursor": 462,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 20,
+  "voci_rss": 0,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.amanzioranuccialfieri.it/: ConnectionError: HTTPSConnectionPool(host='www.amanzioranuccialfieri.it', port=443): Max retries exceeded with url: /",
-    "https://www.aldomorocd.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.aldomorocd.gov.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.calvinovillaricca.it/: ConnectionError: HTTPSConnectionPool(host='www.calvinovillaricca.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.aldomorocd.it/: ConnectionError: HTTPSConnectionPool(host='www.aldomorocd.it', port=443): Max retries exceeded with url: / (Caused by",
-    "https://www.caracciolo.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.caracciolo.edu.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.caracciolodaprocida.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.caracciolodaprocida.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.alpileviscampia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.alpileviscampia.gov.it', port=443): Max retries exceeded with url: / (",
-    "https://www.campodelmoricino.edu.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.carloleviscampia.it/: ConnectionError: HTTPSConnectionPool(host='www.carloleviscampia.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.cn.cesaro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cn.cesaro.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.carlolevi.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.carlolevi.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.cdsequino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cdsequino.gov.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.circolodidatticoeduardodefilippo.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.circolodidatticoeduardodefilippo.gov.it', port=443): Max retries excee",
+    "https://www.cncesaro.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.cncesaro.gov.it', port=443): Max retries exceeded with url: / (Caused ",
+    "https://www.cardito.it/: HTTPError: 403 Client Error: Forbidden for url: https://www.cardito.it/"
   ]
 }
