@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-22T12:23:02.952558+01:00",
+  "data_ora": "2026-11-22T13:21:49.358228+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,10 +16,10 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 12,
-  "pagine_lette": 47,
-  "errori_siti": 5,
-  "scuole_cursor": 1050,
+  "scuole_lette": 5,
+  "pagine_lette": 19,
+  "errori_siti": 12,
+  "scuole_cursor": 1062,
   "uffici_tentati": 5,
   "rss_letti": 2,
   "voci_rss": 0,
@@ -27,10 +27,17 @@
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.secondocircolopoggiomarino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.secondocircolopoggiomarino.gov.it', port=443): Max retries exceeded wi",
-    "https://www.secondocircoloacerra.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.secondocircoloacerra.gov.it', port=443): Max retries exceeded with url",
-    "https://www.sommadue.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.sommadue.gov.it', port=443): Max retries exceeded with url: / (Caused ",
-    "https://www.silioitalico.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.silioitalico.gov.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.secondocircolovillaricca.it/: SSLError: HTTPSConnectionPool(host='www.secondocircolovillaricca.it', port=443): Max retries exceeded with url"
+    "https://www.xxcircolonapoli.com/: ConnectionError: HTTPSConnectionPool(host='www.xxcircolonapoli.com', port=443): Max retries exceeded with url: / (Cau",
+    "https://wwwicmassimotroisisangiorgioacremano.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwicmassimotroisisangiorgioacremano.edu.it', port=443): Max retries excee",
+    "https://wwwic1cangemiboscoreale.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwic1cangemiboscoreale.gov.it', port=443): Max retries exceeded with url:",
+    "https://wwwic2panzinicastellammare.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzinicastellammare.edu.it', port=443): Max retries exceeded with u",
+    "https://wwwicdenicolasasso.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwicdenicolasasso.gov.it', port=443): Max retries exceeded with url: / (C",
+    "https://wwwatellanofrattaminore.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwatellanofrattaminore.edu.it', port=443): Max retries exceeded with url:",
+    "https://wwwic2panzinicastellammare.gov.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzinicastellammare.gov.it', port=443): Max retries exceeded with u",
+    "https://wwwic2panzini.castellammare.edu.it/: ConnectionError: HTTPSConnectionPool(host='wwwic2panzini.castellammare.edu.it', port=443): Max retries exceeded with ",
+    "https://wwwitismarconi.it/: ConnectionError: HTTPSConnectionPool(host='wwwitismarconi.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://www.vivianinapoli.it/: SSLError: HTTPSConnectionPool(host='www.vivianinapoli.it', port=443): Max retries exceeded with url: / (Caused",
+    "https://www.vittoriovenetonapoli.it/: SSLError: HTTPSConnectionPool(host='www.vittoriovenetonapoli.it', port=443): Max retries exceeded with url: / ",
+    "UAT Salerno: ReadTimeout: HTTPSConnectionPool(host='www.mim.gov.it', port=443): Read timed out. (read timeout=6)"
   ]
 }
