@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-22T00:16:34.850628+01:00",
+  "data_ora": "2026-11-22T01:14:46.530530+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -17,20 +17,20 @@
   "scuole_censite": 1314,
   "scuole_tentate": 12,
   "scuole_lette": 12,
-  "pagine_lette": 44,
+  "pagine_lette": 46,
   "errori_siti": 5,
-  "scuole_cursor": 930,
+  "scuole_cursor": 942,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 10,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.liceoalbertini.it/: ConnectionError: HTTPSConnectionPool(host='www.liceoalbertini.it', port=443): Max retries exceeded with url: / (Cause",
-    "https://www.liceoalbertini.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.liceoalbertini.edu.it', port=443): Max retries exceeded with url: / (C",
-    "https://www.liceobrunelleschi.it/: SSLError: HTTPSConnectionPool(host='www.liceobrunelleschi.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.ittgiordanistrianonapoli.edu.it/: SSLError: HTTPSConnectionPool(host='www.ittgiordanistrianonapoli.edu.it', port=443): Max retries exceeded with",
-    "https://www.liceocalamandrei.it/: ValueError: redirect fuori dalla fonte ufficiale"
+    "https://www.liceocomenio.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.liceocomenio.gov.it', port=443): Max retries exceeded with url: / (Cau",
+    "https://www.liceodechirico.it/: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "https://www.liceoclassicodebottis.it/: SSLError: HTTPSConnectionPool(host='www.liceoclassicodebottis.it', port=443): Max retries exceeded with url: /",
+    "https://www.liceoenricomedi.it/: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "https://www.liceocarlomiranda.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
