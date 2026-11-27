@@ -1,5 +1,5 @@
 {
-  "data_ora": "2026-11-27T19:24:24.795354+01:00",
+  "data_ora": "2026-11-27T20:37:24.607530+01:00",
   "regione": "Campania",
   "province": [
     "Avellino",
@@ -16,24 +16,21 @@
   "regola": "SOLO avvisi ufficiali con scadenza data e ora future, accertate nel testo",
   "scuole_censite": 1314,
   "scuole_tentate": 12,
-  "scuole_lette": 9,
-  "pagine_lette": 38,
-  "errori_siti": 8,
-  "scuole_cursor": 828,
+  "scuole_lette": 12,
+  "pagine_lette": 36,
+  "errori_siti": 5,
+  "scuole_cursor": 840,
   "uffici_tentati": 5,
   "rss_letti": 2,
-  "voci_rss": 0,
+  "voci_rss": 20,
   "candidati_verificati": 0,
   "nuovi_notificati": 0,
   "albi_js_non_coperti": true,
   "errori": [
-    "https://www.isisserra.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisserra.gov.it', port=443): Max retries exceeded with url: / (Caused",
-    "https://www.isisrosariolivatino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisrosariolivatino.gov.it', port=443): Max retries exceeded with url:",
-    "https://www.isismelissabassi.it/: ConnectionError: HTTPSConnectionPool(host='www.isismelissabassi.it', port=443): Max retries exceeded with url: / (Cau",
-    "https://www.isisstrianoterzigno.edu.it/: ConnectionError: HTTPSConnectionPool(host='www.isisstrianoterzigno.edu.it', port=443): Max retries exceeded with url:",
-    "https://www.isisleonardodavincipoggiomarino.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isisleonardodavincipoggiomarino.gov.it', port=443): Max retries exceed",
-    "https://www.isistassinari.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isistassinari.gov.it', port=443): Max retries exceeded with url: / (Ca",
-    "https://www.isisrosariolivatino.edu.it/: ConnectTimeout: HTTPSConnectionPool(host='www.isisrosariolivatino.edu.it', port=443): Max retries exceeded with url:",
-    "https://www.isisromano.edu.it/: ConnectTimeout: HTTPSConnectionPool(host='www.isisromano.edu.it', port=443): Max retries exceeded with url: / (Cause"
+    "https://www.ismajorana.it/: ConnectionError: HTTPSConnectionPool(host='www.ismajorana.it', port=443): Max retries exceeded with url: / (Caused by",
+    "https://www.ismennellaischia.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.ismennellaischia.gov.it', port=443): Max retries exceeded with url: / ",
+    "https://www.isnitti.gov.it/: ConnectionError: HTTPSConnectionPool(host='www.isnitti.gov.it', port=443): Max retries exceeded with url: / (Caused b",
+    "https://www.ispagano.edu.it/: HTTPError: 403 Client Error: Forbidden for url: https://www.ispagano.edu.it/",
+    "https://www.isstrianoterzigno.it/: ValueError: redirect fuori dalla fonte ufficiale"
   ]
 }
